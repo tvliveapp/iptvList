@@ -1,11 +1,13 @@
 
 from flask import Flask, render_template, request
-
+import nowLive
+import iptvhdFcn
 #import model
 import json
 import base64
 from urllib.parse import unquote
-
+import importlib
+import time
 import os
 port = int(os.environ.get("PORT", 5000))	
 PORT_NUMBER = port
@@ -21,16 +23,16 @@ def index():
 	return render_template("index.html")
 
 
-@app.route("/buscar")
-def buscar():
+@app.route("/listaiptv")
+def listaiptv():
+	global lasUpdate
+	if time.time()-lasUpdate>18000:
+		nowLive.updateList()
+		iptvhdFcn.getChannels()
+		lasUpdate=time.time()
 	return render_template("leoList.m3u")
-@app.route("/leo")
-def leo():
-	return render_template("leo.txt")
 
-f=open('templates/leo.txt','w')
-f.write('leoList')
-f.close()
+lasUpdate=time.time()
 if __name__ == "__main__":
 	app.run(host='0.0.0.0',port=PORT_NUMBER,debug = True)
-1
+
