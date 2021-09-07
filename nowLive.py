@@ -128,7 +128,7 @@ def updateList():
 	#playLits.write('#EXTM3U\n')
 	for canal in canales:
 		for even in canal['epg']:
-			playLits.write('#EXTINF:-1 group-title="nowLive"'+','+even+'\n')
+			playLits.write('#EXTINF:-1 group-title="nowLive: solo durante eventos"'+','+even+'\n')
 			playLits.write(canal['link_to_play']+'\n')
 		print(canal)
 		print()
