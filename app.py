@@ -26,7 +26,7 @@ def index():
 @app.route("/listaiptv")
 def listaiptv():
 	global lasUpdate
-	if time.time()-lasUpdate>18000:
+	if time.time()-lasUpdate>120:
 		nowLive.updateList()
 		iptvhdFcn.getChannels()
 		lasUpdate=time.time()
