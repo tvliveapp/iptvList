@@ -31,7 +31,12 @@ def listaiptv():
 		iptvhdFcn.getChannels()
 		lasUpdate=time.time()
 	return render_template("leoList.m3u")
-
+@app.route("/update")
+def update():
+	nowLive.updateList()
+	iptvhdFcn.getChannels()
+	lasUpdate=time.time()
+	return "ok"
 lasUpdate=time.time()
 if __name__ == "__main__":
 	app.run(host='0.0.0.0',port=PORT_NUMBER,debug = True)
