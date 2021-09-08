@@ -27,7 +27,7 @@ def index():
 def listaiptv():
 	global lasUpdate
 	print(time.time()-lasUpdate)
-	if time.time()-lasUpdate>120:
+	if time.time()-lasUpdate>10000:
 		nowLive.updateList()
 		iptvhdFcn.getChannels()
 		lasUpdate=time.time()
