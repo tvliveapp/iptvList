@@ -26,6 +26,7 @@ def index():
 @app.route("/listaiptv")
 def listaiptv():
 	global lasUpdate
+	print(time.time()-lasUpdate)
 	if time.time()-lasUpdate>120:
 		nowLive.updateList()
 		iptvhdFcn.getChannels()
@@ -35,7 +36,6 @@ def listaiptv():
 def update():
 	nowLive.updateList()
 	iptvhdFcn.getChannels()
-	lasUpdate=time.time()
 	return "ok"
 lasUpdate=time.time()
 if __name__ == "__main__":
