@@ -28,9 +28,10 @@ def listaiptv():
 	global lasUpdate
 	print(time.time()-lasUpdate)
 	if time.time()-lasUpdate>10000:
+		lasUpdate=time.time()
 		nowLive.updateList()
 		iptvhdFcn.getChannels()
-		lasUpdate=time.time()
+		
 	return render_template("leoList.m3u")
 @app.route("/update")
 def update():
