@@ -14,3 +14,35 @@ http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8?mvk
 http://91.126.141.13:1935/live/91/playlist.m3u8
 #EXTINF:-1 group-title="españa",bed mad
 http://91.126.138.140:1935/live/bemad/playlist.m3u8
+#EXTINF:-1 group-title="ecuador",ecuavisa
+https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
+#EXTINF:-1 group-title="ecuador",teleamazonas
+https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
+#EXTINF:-1 group-title="ecuador",uno
+https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
+#EXTINF:-1 group-title="ecuador",rts
+https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
+#EXTINF:-1 group-title="ecuador",canela
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w149100019.m3u8
+#EXTINF:-1 group-title="24/7",Los simpsons
+http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+#EXTINF:-1 group-title="24/7",Peliculas
+http://lavozdetucuman.com/peliculas1.m3u8
+#EXTINF:-1 group-title="24/7",Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 group-title="24/7",multimedio monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="24/7",multimedio TORREON
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="24/7",multimedio guadalajara
+http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="24/7",tmtv
+http://streamingcws20.com:1935//tmtv/videotmtv/.m3u8
+#EXTINF:-1 group-title="24/7",FORMULA TV
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 group-title="honduras",CAMPUS TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1 group-title="honduras",ten tv
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Costa Rica",
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
