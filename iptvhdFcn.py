@@ -7,6 +7,7 @@ from requests.structures import CaseInsensitiveDict
 headers = CaseInsensitiveDict()
 headers["Referer"] = "http://apk.radiotormentamx.com/"
 '''
+
 http://iptvhd.club/aptv/vip/cablehd.php?id=2_
 http://aptv.radiotormentamx.com/aptv/vip/cablehd.php?id='+fid+'_#
 http://apk.radiotormentamx.com/latino.html
@@ -79,7 +80,7 @@ def getChannels():
     leolist.write(f.read())
     leolist.write("\n")
     f.close()
-    f=open('templates/españa.m3u','r')
+    f=open('templates/espana.m3u','r')
     leolist.write(f.read())
     f.close()
     leolist.close()    
@@ -91,7 +92,7 @@ def iptvhdFcn(id):
     if channels[id]["srclink"]== "iptvhd":
         headers = CaseInsensitiveDict()
         r = requests.get(channels[id]['stream_link'])
-        print(r.status_code)
+        print(r.status_code) 
         a=r.content.decode('latin-1')
         a=a.replace('==','!=',1)
         a=a.split('Clappr.Player(')[1]
