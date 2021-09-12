@@ -79,7 +79,7 @@ def getChannels():
     leolist.write(f.read())
     leolist.write("\n")
     f.close()
-    f=open('templates/españa.m3u','r')
+    f=open('templates/espana.m3u','r')
     leolist.write(f.read())
     f.close()
     leolist.close()    
