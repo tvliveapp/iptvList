@@ -76,87 +76,87 @@ http://stream.tvtap.live:8081/live/laligatvbar.stream/playlist.m3u8
 http://stream.tvtap.live:8081/droid/fr-natgeo.stream/playlist.m3u8
 #EXTINF:-1 group-title="premium", NAT GEO WILD
 http://stream.tvtap.live:8081/live/es-national-geographic.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",eGG
+#EXTINF:-1 group-title="DEPORTES",eGG
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="SPORT",Fox Sport 1
+#EXTINF:-1 group-title="DEPORTES",Fox Sport 1
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
-#EXTINF:-1 group-title="SPORT",Fox Sport 1 (link 2)
+#EXTINF:-1 group-title="DEPORTES",Fox Sport 1 (link 2)
 http://iptv.tvmalaysia.cc:80/624850/624850/6793
-#EXTINF:-1 group-title="SPORT",Fox Sport 1 (link 3)
+#EXTINF:-1 group-title="DEPORTES",Fox Sport 1 (link 3)
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
-#EXTINF:-1 group-title="SPORT",Fox Sport 2
+#EXTINF:-1 group-title="DEPORTES",Fox Sport 2
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
-#EXTINF:-1 group-title="SPORT",Fox Sport 2 (link 2)
+#EXTINF:-1 group-title="DEPORTES",Fox Sport 2 (link 2)
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport2 
-#EXTINF:-1 group-title="SPORT",Fox Sport 3
+#EXTINF:-1 group-title="DEPORTES",Fox Sport 3
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
-#EXTINF:-1 group-title="SPORT",Fox Sport 3 (Link 2)
+#EXTINF:-1 group-title="DEPORTES",Fox Sport 3 (Link 2)
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
-#EXTINF:-1 group-title="SPORT",Fox Sport 3 (Link 3)
+#EXTINF:-1 group-title="DEPORTES",Fox Sport 3 (Link 3)
 http://iptv.tvmalaysia.cc:80/624850/624850/6792
-#EXTINF:-1 group-title="SPORT",ITV Sports
+#EXTINF:-1 group-title="DEPORTES",ITV Sports
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8 
-#EXTINF:-1 group-title="SPORT",ChampionTV
+#EXTINF:-1 group-title="DEPORTES",ChampionTV
 http://topwin-tv.my.id/2/master.m3u8?id=champion1
-#EXTINF:-1 group-title="SPORT",ChampionTV 2
+#EXTINF:-1 group-title="DEPORTES",ChampionTV 2
 http://topwin-tv.my.id/2/master.m3u8?id=champion2
-#EXTINF:-1 group-title="SPORT",BTSPORT 2 (link2)
+#EXTINF:-1 group-title="DEPORTES",BTDEPORTES 2 (link2)
 http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",BTSPORT 3
+#EXTINF:-1 group-title="DEPORTES",BTDEPORTES 3
 http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",BTSPORT 3 (Link2)
+#EXTINF:-1 group-title="DEPORTES",BTDEPORTES 3 (Link2)
 http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",RTM Sport
+#EXTINF:-1 group-title="DEPORTES",RTM Sport
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",RAISPORT+
+#EXTINF:-1 group-title="DEPORTES",RAIDEPORTES+
 http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",LALIGA
+#EXTINF:-1 group-title="DEPORTES",LALIGA
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",DAZN 1
+#EXTINF:-1 group-title="DEPORTES",DAZN 1
 http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",CANAL+
+#EXTINF:-1 group-title="DEPORTES",CANAL+
 http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",ESPN+
+#EXTINF:-1 group-title="DEPORTES",ESPN+
 http://134.19.182.131:8080/edg2_2.m3u8
-#EXTINF:-1 group-title="SPORT",ESPN US
+#EXTINF:-1 group-title="DEPORTES",ESPN US
 http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",ESPN 2
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
-#EXTINF:-1 group-title="SPORT",Arena 1
+#EXTINF:-1 group-title="DEPORTES",Arena 1
 http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",Arena 2
+#EXTINF:-1 group-title="DEPORTES",Arena 2
 http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",Arena 3
+#EXTINF:-1 group-title="DEPORTES",Arena 3
 http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",Arena 5
+#EXTINF:-1 group-title="DEPORTES",Arena 5
 http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",NBA TV
+#EXTINF:-1 group-title="DEPORTES",NBA TV
 http://topwin-tv.my.id/2/master.m3u8?id=nba
-#EXTINF:-1 group-title="SPORTS", TrueSport
+#EXTINF:-1 group-title="DEPORTES", TrueSport
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORT ",True Sports 1
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="DEPORTES ",True Sports 1
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="SPORT ",True Sports 2
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="DEPORTES ",True Sports 2
 http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="SPORT ",True Sports 3
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="DEPORTES ",True Sports 3
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",True Sport 5
+#EXTINF:-1 group-title="DEPORTES",True Sport 5
 https://www.livedoomovie.com//02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",True Sport 6
+#EXTINF:-1 group-title="DEPORTES",True Sport 6
 https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",True Sport 6
+#EXTINF:-1 group-title="DEPORTES",True Sport 6
 https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",DubaiSport5
+#EXTINF:-1 group-title="DEPORTES",DubaiSport5
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="SPORT",FSA
+#EXTINF:-1 group-title="DEPORTES",FSA
 http://134.19.182.131:8080/edg12_2.m3u8
-#EXTINF:-1 group-title="SPORTS", SK 2HD
+#EXTINF:-1 group-title="DEPORTES", SK 2HD
 http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",TVC Sport
+#EXTINF:-1 group-title="DEPORTES",TVC Sport
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ASTRO SPORT", ASTRO Arena 
+#EXTINF:-1 group-title="DEPORTES", ASTRO Arena 
 http://iptv.tvmalaysia.cc:80/624850/624850/6707
-#EXTINF:-1 group-title="ASTRO SPORT",ASTRO ARENA (link 2)
+#EXTINF:-1 group-title="DEPORTES",ASTRO ARENA (link 2)
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1,Boomerang
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
@@ -192,39 +192,39 @@ http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:-1,ESLaLigaTV Bar
 http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ESPN",ESPN 2 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
 http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ESPN",ESPN 3 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
 http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ESPN",ESPN 4 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
 http://31.220.41.88:8081/live/nl-foxsports4.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ESPN",ESPN 5 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 5 HD
 http://31.220.41.88:8081/live/nl-foxsports5.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ESPN",ESPN 6 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 6 HD
 http://31.220.41.88:8081/live/nl-foxsports6.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ESPN",ESPN HD
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
 http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
-#EXTIN:-1 group-title="SPORTS",Eurosport 2
+#EXTIN:-1 group-title="DEPORTES",Eurosport 2
 http://31.220.41.88:8081/live/skysports-premier-league.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",FOX
+#EXTINF:-1 group-title="DEPORTES",FOX
 http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",beIN Sport 3
+#EXTINF:-1 group-title="DEPORTES",beIN Sport 3
 http://31.220.41.88:8081/live/fr-beinsport3.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",beIN Sports 1
+#EXTINF:-1 group-title="DEPORTES",beIN Sports 1
 http://31.220.41.88:8081/live/fr-beinsport1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",beIN Sports 2
+#EXTINF:-1 group-title="DEPORTES",beIN Sports 2
 http://31.220.41.88:8081/live/fr-beinsport2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",RMC Sport 1
+#EXTINF:-1 group-title="DEPORTES",RMC Sport 1
 http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",RMC Sport 2
+#EXTINF:-1 group-title="DEPORTES",RMC Sport 2
 http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",FreeForm
+#EXTINF:-1 group-title="DEPORTES",FreeForm
 http://31.220.41.88:8081/live/us-freeform.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",FX
+#EXTINF:-1 group-title="DEPORTES",FX
 http://31.220.41.88:8081/live/us-fx.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",FXX
+#EXTINF:-1 group-title="DEPORTES",FXX
 http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",hallmark
+#EXTINF:-1 group-title="DEPORTES",hallmark
 http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
 #EXTINF:-1 group-title="Premium",HBO
 http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
@@ -234,11 +234,11 @@ http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-hbozone.stream/playlist.m3u8
 #EXTINF:-1 group-title="Premium",DAZN 2
 http://31.220.41.88:8081/live/it-dazn1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sport Calcio
+#EXTINF:-1 group-title="DEPORTES",Sky Sport Calcio
 http://31.220.41.88:8081/live/it-skysportserieA.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sport Football
+#EXTINF:-1 group-title="DEPORTES",Sky Sport Football
 http://31.220.41.88:8081/live/it-skysport-football.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Lifetime
+#EXTINF:-1 group-title="DEPORTES",Lifetime
 http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8
 #EXTINF:-1 group-title="Premium",Lifetime Movie Network
 http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
@@ -248,21 +248,21 @@ http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 #EXTINF:-1 group-title="Premium",Paramount (Spike)
 http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Premier Sports 1
+#EXTINF:-1 group-title="DEPORTES",Premier Sports 1
 http://31.220.41.88:8081/live/prem.stream/playlist.m3u8
 #EXTINF:-1 group-title="Premium",SHOWTIME
 http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
 #EXTINF:-1 group-title="Premium",SHOWTIME 2
 http://31.220.41.88:8081/live/us-showtime2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Arena
+#EXTINF:-1 group-title="DEPORTES",Sky Arena
 http://31.220.41.88:8081/live/skysports-arena.stream/playlist.m3u8
 #EXTINF:-1 group-title="Premium",Sky Cinema Drama
 http://31.220.41.88:8081/live/mdrama.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky F1
+#EXTINF:-1 group-title="DEPORTES",Sky F1
 http://31.220.41.88:8081/live/skysportsf1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Main Event
+#EXTINF:-1 group-title="DEPORTES",Sky Main Event
 http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Mix
+#EXTINF:-1 group-title="DEPORTES",Sky Mix
 http://31.220.41.88:8081/live/skysportsmix.stream/playlist.m3u8
 #EXTINF:-1 group-title="Premium",Sky Movies Action & Adventure
 http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
@@ -276,11 +276,11 @@ http://31.220.41.88:8081/live/mdisney.stream/playlist.m3u8
 http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
 #EXTINF:-1 group-title="Premium",Sky Movies Premiere
 http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sport Bundesliga 1
+#EXTINF:-1 group-title="DEPORTES",Sky Sport Bundesliga 1
 http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",skysports footbal
+#EXTINF:-1 group-title="DEPORTES",skysports footbal
 http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",SPORT TV 1 HD
+#EXTINF:-1 group-title="DEPORTES",DEPORTES TV 1 HD
 http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
 #EXTINF:-1,Boomerang
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
@@ -301,11 +301,11 @@ http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/HBOHD/hls_fk/index.m3u8
 #EXTINF:-1 group-title="alternativa" tvg-id="hbo2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png",HBO 2 
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/HBO2HD/hls_fk/index.m3u8 
 #EXTINF:-1 group-title="alternativa" tvg-id="foxsports.co",Fox Sports 
-http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXSPORTSHD/hls_fk/index.m3u8 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXDEPORTESHD/hls_fk/index.m3u8 
 #EXTINF:-1 group-title="alternativa" tvg-id="foxsports2.ar",Fox Sports 2 
-http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXSPORTS2HD/hls_fk/index.m3u8 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXDEPORTES2HD/hls_fk/index.m3u8 
 #EXTINF:-1 group-title="alternativa" tvg-id="foxsports3.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/609.png",Fox Sports 3 
-http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXSPORTS3HD/hls_fk/index.m3u8 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXDEPORTES3HD/hls_fk/index.m3u8 
 #EXTINF:-1 group-title="alternativa" tvg-id="space.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/518.png",Space 
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/SPACEHD/hls_fk/index.m3u8
 #EXTINF:-1 group-title="alternativa" tvg-id="foxchannel.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/270px-Star_Channel_2020.svg.png",Star Channel 
@@ -325,7 +325,7 @@ http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/DHEHD/hls_fk/index.m3u8
 #EXTINF:-1 group-title="alternativa" tvg-id="EPG123.18567.XMLTV.CO",Syfy 
 http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/SYFYHD/hls_fk/index.m3u8 
 #EXTINF:-1,Claro Sports 
-http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8 
+http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/CLARODEPORTESHD/hls_fk/index.m3u8 
 #EXTINF:-1,FX
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/FXHD/hls_fk/index.m3u8 
 #EXTINF:-1,Cinecanal 
@@ -441,7 +441,7 @@ http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/AMERICAHD/hls_fk/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png",HBO Mundi 
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/MAXHD/hls_fk/index.m3u8 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/629.png",TyC Sports 
-http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/TYCSPORTS/hls_fk/index.m3u8 
+http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/TYCDEPORTES/hls_fk/index.m3u8 
 #EXTINF:-1,Disney Junior
 http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/DISNEYJR/hls_fk/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png",RCN Novelas
@@ -481,11 +481,11 @@ http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/EUROCHANNEL/hls_fk/index.m3
 #EXTINF:-1,TV5MONDE 
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/TV5/hls_fk/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png",Claro Sports 2 Evento
-http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/CLAROSPORTS2HD/hls_fk/index.m3u8
+http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/CLARODEPORTES2HD/hls_fk/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png",Claro Sports 3 Evento
-http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/CLAROSPORTS3HD/hls_fk/index.m3u8
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/CLARODEPORTES3HD/hls_fk/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png",Claro Sports 4 Evento
-http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/CLAROSPORTS4HD/hls_fk/index.m3u8
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/CLARODEPORTES4HD/hls_fk/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1599px-Star_Comedy_2020.svg.png",Star Comedy
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/FOXPREMIUMCOMEDYHD/hls_fk/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Star_Series_2021.png/800px-Star_Series_2021.png",Star Series
