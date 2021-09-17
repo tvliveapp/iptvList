@@ -156,7 +156,6 @@ http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
 #EXTINF:-1,CBS
 http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8
-
 #EXTINF:-1,Cinemax Action
 http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
 #EXTINF:-1,Comedy Central
