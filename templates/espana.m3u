@@ -288,27 +288,27 @@ http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
 #EXTINF:-1,CBS
 http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8
-#EXTINF:-1 group-title="alternativa" group-title="alternativa" tvg-id="espn.pe" tvg-logo="http://xtream-coders.com/x0/deportes/espn.png",Espn 
+#EXTINF:-1 group-title="premiun 2" group-title="premiun 2" tvg-id="espn.pe" tvg-logo="http://xtream-coders.com/x0/deportes/espn.png",Espn 
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/ESPN2HD/hls_fk/index.m3u8
-#EXTINF:-1 group-title="alternativa" tvg-id="espn.mx" tvg-logo="http://xtream-coders.com/x0/deportes/espn2.png",Espn 2  
+#EXTINF:-1 group-title="premiun 2" tvg-id="espn.mx" tvg-logo="http://xtream-coders.com/x0/deportes/espn2.png",Espn 2  
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/ESPNHD/hls_fk/index.m3u8
-#EXTINF:-1 group-title="alternativa" tvg-id="espn3.ar" tvg-logo="http://xtream-coders.com/x0/deportes/espn3.png",Espn 3 
+#EXTINF:-1 group-title="premiun 2" tvg-id="espn3.ar" tvg-logo="http://xtream-coders.com/x0/deportes/espn3.png",Espn 3 
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/ESPN3HD/hls_fk/index.m3u8
-#EXTINF:-1 group-title="alternativa" tvg-id="aande.pe",A&E
+#EXTINF:-1 group-title="premiun 2" tvg-id="aande.pe",A&E
 http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/AEHD/hls_fk/index.m3u8
-#EXTINF:-1 group-title="alternativa" tvg-id="hbo.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/522.png",HBO 
+#EXTINF:-1 group-title="premiun 2" tvg-id="hbo.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/522.png",HBO 
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/HBOHD/hls_fk/index.m3u8 
-#EXTINF:-1 group-title="alternativa" tvg-id="hbo2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png",HBO 2 
+#EXTINF:-1 group-title="premiun 2" tvg-id="hbo2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png",HBO 2 
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/HBO2HD/hls_fk/index.m3u8 
-#EXTINF:-1 group-title="alternativa" tvg-id="foxsports.co",Fox Sports 
+#EXTINF:-1 group-title="premiun 2" tvg-id="foxsports.co",Fox Sports 
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXDEPORTESHD/hls_fk/index.m3u8 
-#EXTINF:-1 group-title="alternativa" tvg-id="foxsports2.ar",Fox Sports 2 
+#EXTINF:-1 group-title="premiun 2" tvg-id="foxsports2.ar",Fox Sports 2 
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXDEPORTES2HD/hls_fk/index.m3u8 
-#EXTINF:-1 group-title="alternativa" tvg-id="foxsports3.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/609.png",Fox Sports 3 
+#EXTINF:-1 group-title="premiun 2" tvg-id="foxsports3.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/609.png",Fox Sports 3 
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXDEPORTES3HD/hls_fk/index.m3u8 
-#EXTINF:-1 group-title="alternativa" tvg-id="space.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/518.png",Space 
+#EXTINF:-1 group-title="premiun 2" tvg-id="space.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/518.png",Space 
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/SPACEHD/hls_fk/index.m3u8
-#EXTINF:-1 group-title="alternativa" tvg-id="foxchannel.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/270px-Star_Channel_2020.svg.png",Star Channel 
+#EXTINF:-1 group-title="premiun 2" tvg-id="foxchannel.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/270px-Star_Channel_2020.svg.png",Star Channel 
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXHD/hls_fk/index.m3u8 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/510.png",Paramount Channel
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/PARAMOUNTHD/hls_fk/index.m3u8 
@@ -322,7 +322,7 @@ http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/ATVHD/hls_fk/index.m3u8
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/EXITOSAHD/hls_fk/inde..m3u8 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/513.png",DHE 
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/DHEHD/hls_fk/index.m3u8
-#EXTINF:-1 group-title="alternativa" tvg-id="EPG123.18567.XMLTV.CO",Syfy 
+#EXTINF:-1 group-title="premiun 2" tvg-id="EPG123.18567.XMLTV.CO",Syfy 
 http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/SYFYHD/hls_fk/index.m3u8 
 #EXTINF:-1,Claro Sports 
 http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/CLARODEPORTESHD/hls_fk/index.m3u8 
@@ -352,7 +352,7 @@ http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/NATGEOKIDSHD/hls_fk/index.m
 http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/NICKELODEONHD/hls_fk/index.m3u8 
 #EXTINF:-1,Willax
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/WILLAXHD/hls_fk/index.m3u8
-#EXTINF:-1 group-title="alternativa" tvg-id="foxlife.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1600px-Star_Life_2021.svg.png",Star Life 
+#EXTINF:-1 group-title="premiun 2" tvg-id="foxlife.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1600px-Star_Life_2021.svg.png",Star Life 
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXLIFE/hls_fk/index.m3u8
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/316.png",Disney XD 
 http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/DISNEYXD/hls_fk/DISNEYXD.m3u8 
@@ -396,7 +396,7 @@ http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/SONYHD/hls_fk/index.m3u8
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/ELTRECE/hls_fk/index.m3u8 
 #EXTINF:-1,Golden Edge 
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/GOLDENEDGE/hls_fk/index.m3u8 
-#EXTINF:-1 group-title="alternativa" tvg-id="golden.la",Golden 
+#EXTINF:-1 group-title="premiun 2" tvg-id="golden.la",Golden 
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/GOLDEN/hls_fk/index.m3u8 
 #EXTINF:-1,HTV
 http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/HTV/hls_fk/index.m3u8 
@@ -404,7 +404,7 @@ http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/HTV/hls_fk/index.m3u8
 http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/NATGEOWILDHD/hls_fk/index.m3u8 
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/nat_geo.png",Nat Geo 
 http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/NATGEOHD/hls_fk/index.m3u8 
-#EXTINF:-1 group-title="alternativa" tvg-id="venus.co",Venus
+#EXTINF:-1 group-title="premiun 2" tvg-id="venus.co",Venus
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/VENUS/hls_fk/index.m3u8 
 #EXTINF:-1,Playboy 
 http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/PLAYBOYHD/hls_fk/index.m3u8 
