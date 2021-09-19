@@ -1,0 +1,16 @@
+#EXTINF:-1 group-title="24/7",Los simpsons
+http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+#EXTINF:-1 group-title="24/7",Peliculas
+http://lavozdetucuman.com/peliculas1.m3u8
+#EXTINF:-1 group-title="24/7",Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 group-title="24/7",multimedio monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="24/7",multimedio TORREON
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="24/7",multimedio guadalajara
+http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="24/7",tmtv
+http://streamingcws20.com:1935//tmtv/videotmtv/.m3u8
+#EXTINF:-1 group-title="24/7",FORMULA TV
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8

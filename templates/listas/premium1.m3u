@@ -1,0 +1,86 @@
+#EXTINF:-1 group-title="Premium 1",Boomerang
+http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",Cartoon Network
+http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",CBS
+http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",Cinemax Action
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",Comedy Central
+http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",DAVE
+http://31.220.41.88:8081/live/dave.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",DAZN F1
+http://31.220.41.88:8081/live/es-moviestarf1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",DE SAT HD
+http://31.220.41.88:8081/live/de-3sat.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",DE Sky Sport 1
+http://31.220.41.88:8081/live/de-skysport1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",Discovery Channel
+http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",Disney
+http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",Disney XD
+http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",ES Movistar Deportes
+http://31.220.41.88:8081/live/es-movistar-deportes.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",ES movistar deportes2
+http://31.220.41.88:8081/live/es-movistar-deportes2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",ES movistar laliga
+http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",ES Movistar LaLiga
+http://31.220.41.88:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",ESLaLigaTV Bar
+http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",Boomerang
+http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",Cartoon Network
+http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 1",CBS
+http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8
+518.png",Space 
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/SPACEHD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="Premium 1" group-title="premiun 2" tvg-id="foxchannel.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/270px-Star_Channel_2020.svg.png",Star Channel 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/510.png",Paramount Channel
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/PARAMOUNTHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1192.png",Latina 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/LATINAHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1024px-Panamericana-tv.svg.png",Panamericana 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/PANAMERICANAHD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="Premium 1" tvg-ID"ATV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png",ATV 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/ATVHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/150px-Logoexitosa.png",Exitosa TV
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/EXITOSAHD/hls_fk/inde..m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/513.png",DHE 
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/DHEHD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="Premium 1" group-title="premiun 2" tvg-id="EPG123.18567.XMLTV.CO",Syfy 
+http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/SYFYHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1",Claro Sports 
+http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/CLARODEPORTESHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1",FX
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/FXHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1",Cinecanal 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/CINECANALHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1",Golden Plus 
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/GOLDENPLUSHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/509.png",Cinemax 
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/CINEMAXHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="http://xtream-coders.com/x0/latino/tnt.png",TNT
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/TNTHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="http://xtream-coders.com/x0/latino/tnt_series.png",TNT Series 
+http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/TNTSERIESHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="http://xtream-coders.com/x0/latino/mtv.png",MTV
+http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/MTVHD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="Premium 1" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/210.png",AMC 
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/AMCHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png",HBO Pop 
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/MAXUPHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/304.png",Cartoon Network
+http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/CARTOONNETWORKHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/318.png",Nat Geo Kids 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/NATGEOKIDSHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/308.png",Nick 
+http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/NICKELODEONHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 1",Willax
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/WILLAXHD/hls_fk/index.m3u8

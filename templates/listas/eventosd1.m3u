@@ -1,0 +1,18 @@
+#EXTINF:-1 group-title="eventos deportivos 1", la liga 1
+http://23.237.88.106:25461/live/NikolasIgnacio/6rQo6gx8Ii/45690.m3u8?token=HhsMVUpYRAkSVANeBQFVAAgHAFFaU1MHBwcBVAMGXQZcD1UGAFRXAVUVShpBRxRWWFlqXFwXWFUHUgoGGBEQQwBLO11dElwRAgVQAQsGRB8bQFxYXRdYUR5GQ19QEV8SUAlSAhscRFZIQwNKXFIKbF1RQ1xbUEBbXBFfWhgRCl46XQFZWF4CEQoVVhoeEQ9ASRYPW01ZDk0QBlpCRlIRVUcDRgEOCVARHBUFV0ddEkFAFg8XfXZATRABS0JRXRZZCldGDhtdVUYIFUoaW0A5QVxHQUddVA8EQEYJFAQRSRIIWBxrWl8IXVVUElFdXRURAxYGFxQXDw5cDUdZRmwVWQEbXhYIAlAFAhUb
+#EXTINF:-1 group-title="eventos deportivos 1", la liga 2
+http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8
+#EXTINF:-1 group-title="eventos deportivos 1", premier 1
+http://stream.tvtap.live:8081/live/fr-sfr1.stream/chunks.m3u8
+#EXTINF:-1 group-title="eventos deportivos 1", la liga 3
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 group-title="eventos deportivos 1", la liga 4
+http://stream.tvtap.live:8081/live/es-movistar-deportes.stream/playlist.m3u8
+#EXTINF:-1 group-title="eventos deportivos 1", la liga 5
+http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8
+#EXTINF:-1 group-title="eventos deportivos 1", la liga 6
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 group-title="eventos deportivos 1", la liga 7
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 group-title="eventos deportivos 1", la liga 8
+http://stream.tvtap.live:8081/live/laligatvbar.stream/playlist.m3u8

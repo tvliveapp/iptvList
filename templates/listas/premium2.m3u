@@ -1,0 +1,60 @@
+#EXTINF:-1 group-title="Premium 2",HBO
+http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",HBO Family
+http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",HBO Zone
+http://31.220.41.88:8081/live/us-hbozone.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",DAZN 2
+http://31.220.41.88:8081/live/it-dazn1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",Sky Movies Action & Adventure
+http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",Sky Movies Comedy 
+http://31.220.41.88:8081/live/mcomedy.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",Sky Movies Crime & Thriller
+http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",Sky Movies Disney
+http://31.220.41.88:8081/live/mdisney.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",Sky Movies Family
+http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",Lifetime Movie Network
+http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",Nick Jr
+http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",Nickelodeon
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",Paramount (Spike)
+http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",SHOWTIME
+http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",SHOWTIME 2
+http://31.220.41.88:8081/live/us-showtime2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",Sky Cinema Drama
+http://31.220.41.88:8081/live/mdrama.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2",Sky Movies Premiere
+http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2" tvg-id="espn.pe" tvg-logo="http://xtream-coders.com/x0/deportes/espn.png",Espn 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/ESPN2HD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="Premium 2" tvg-id="espn.mx" tvg-logo="http://xtream-coders.com/x0/deportes/espn2.png",Espn 2  
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/ESPNHD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="Premium 2" tvg-id="espn3.ar" tvg-logo="http://xtream-coders.com/x0/deportes/espn3.png",Espn 3 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/ESPN3HD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="Premium 2" tvg-id="aande.pe",A&E
+http://pelivechannelshls-3.media.claro.com.pe/bpk-tv/AEHD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="Premium 2" tvg-id="hbo.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/522.png",HBO 
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/HBOHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 2" tvg-id="hbo2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png",HBO 2 
+http://pelivechannelshls-5.media.claro.com.pe/bpk-tv/HBO2HD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 2" tvg-id="foxsports.co",Fox Sports 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXDEPORTESHD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 2" tvg-id="foxsports2.ar",Fox Sports 2 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXDEPORTES2HD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 2" tvg-id="foxsports3.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/609.png",Fox Sports 3 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXDEPORTES3HD/hls_fk/index.m3u8 
+#EXTINF:-1 group-title="Premium 2" tvg-id="space.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/
+#EXTINF:-1 group-title="Premium 2", NATIONAL GEOGRAPHIC
+http://stream.tvtap.live:8081/droid/fr-natgeo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2", NAT GEO WILD
+http://stream.tvtap.live:8081/live/es-national-geographic.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium 2" tvg-id="foxlife.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1600px-Star_Life_2021.svg.png",Star Life 
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/FOXLIFE/hls_fk/index.m3u8
+
