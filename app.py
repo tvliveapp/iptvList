@@ -49,6 +49,19 @@ def listaiptv():
 		lasUpdate=time.time()
 		readList()
 	return listadecanales
+@app.route("/listaiptv.m3u")
+def listaiptvm3u():
+	global lasUpdate
+	try:
+		print( ip_address = request.headers['X-Forwarded-For'])
+	except:
+		pass
+	if time.time()-lasUpdate>18000:
+		#nowLive.updateList()
+		#iptvhdFcn.getChannels()
+		lasUpdate=time.time()
+		readList()
+	return listadecanales
 readList()
 lasUpdate=time.time()
 if __name__ == "__main__":
