@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="honduras",CAMPUS TV
-http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
-#EXTINF:-1 group-title="honduras",ten tv
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Costa Rica",
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
