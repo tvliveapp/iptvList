@@ -64,6 +64,12 @@ def root():
 def index():
 	return render_template("test.html")
 
+@app.route("/todos")
+def todos():
+	global todosChn
+	return json.dumps(todosChn)
+
+
 listaUsuarios=[]
 @app.route("/listaiptv")
 def listaiptv():
