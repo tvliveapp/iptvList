@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<style type="text/css">
+  .selected{
+    background-color: green;
+  }
+  .nselected{
+    background-color: #efefef;
+  }
+</style>
+<body>
+
+<div>
+  <h1>Al finalizar el video presiona Generar url </h1>
+  <h1 id='finalUrl'> </h1>
+  
+  <button style='display: none;'id='gnrBtn' onclick="generarUrl()">
+    Generar url
+  </button>
+</div>
+<div id="ytplayer"></div>
+
+  <div id='listasel'>
+    
+  </div>
+  <div id='listacnt'>
+    
+  </div>
+<script>
+  // Load the IFrame Player API code asynchronously.
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/player_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  // Replace the 'ytplayer' element with an <iframe> and
+  // YouTube player after the API code downloads.
+  var player;
+  function onYouTubePlayerAPIReady() {
+    player = new YT.Player('ytplayer', {
+      height: '360',
+      width: '640',
+      videoId: 'aSShibqpA6g',
+      loop: 1,
+      events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+    });
+
+
+  }
+  var onePlay=0;
+  function onPlayerReady(event) {
+        event.target.playVideo();
+        player.mute();
+      }
+  function onPlayerStateChange(event) {
+    console.log( YT.PlayerState.PLAYING)
+    console.log(player.getPlayerState())
+    if(!player.getPlayerState())
+      onePlay=1;
+    if (player.getPlayerState()!=2 && onePlay)
+      gnrBtn.style.display='block';
+    else{
+      gnrBtn.style.display='none';
+      if(player.getPlayerState()==2)
+        alert('no pause el video...');
+    }
+
+  }
+var canales;
+ function httpGet(theUrl)
+{
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
+    xmlHttp.send( null );
+    canales= JSON.parse(xmlHttp.responseText);
+    botones=document.getElementById('listasel');
+    for (var [key, value] of Object.entries(canales)) {
+      boton=document.createElement('button');
+      select=document.createElement('input');
+      select.type='checkbox';
+      select.id=key+'_chk';
+      boton.id=key;
+      boton.setAttribute('onclick','loadChns(this)');
+      boton.setAttribute('class','nselected');
+      select.setAttribute('onchange','addCat(this)');
+      boton.innerHTML=key+'('+String(canales[key].length)+')';
+      botones.appendChild(boton);
+      botones.appendChild(select);
+
+
+    }
+
+}
+
+httpGet('/todos')
+
+function loadChns(ele){
+ console.log(ele.id);
+ document.getElementById('listacnt').innerHTML=canales[ele.id].join('<br>');
+}
+var catsUrl='https://ip-tvlist.herokuapp.com/listaiptv.m3u?cats='
+var catsList=[];
+function addCat(ele) {
+  console.log(ele.id);
+  catName=ele.id.split('_')[0];
+  document.getElementById(catName).setAttribute('class','nselected');
+  catsList = catsList.filter(function(item) {
+    return item !== catName;
+  });
+
+  if (ele.checked){
+    catsList.push(catName);
+    document.getElementById(catName).setAttribute('class','selected'); 
+  } 
+}
+
+function shiftString(mystr, direction, n) {
+   arr=mystr.split('');
+   var times = n > arr.length ? n % arr.length : n;
+    newArr=arr.concat(arr.splice(0, (direction > 0 ? arr.length - times : times)));
+    return newArr.join('');
+}
+function generarUrl(){
+  newUrl=catsList.join(',');
+  sr=Math.round(Math.random()*10)
+  rUrl=shiftString(newUrl,0,sr);
+  
+  if(newUrl==rUrl) generarUrl();
+  //gnrBtn.style.display='none';
+  console.log(newUrl);
+  console.log(rUrl)
+  console.log(shiftString(rUrl,1,sr) );
+  finalUrl=catsUrl+rUrl+'&sr='+sr*5;
+  //alert(finalUrl);
+  document.getElementById('finalUrl').innerHTML=finalUrl;
+  
+  player.loadVideoById('aSShibqpA6g');
+
+}
+var  gnrBtn =document.getElementById('gnrBtn');
+</script>
+
+</body>
+</html> 
