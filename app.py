@@ -1,6 +1,7 @@
 
 from flask import Flask, render_template, request
 import nowLive
+import todosFcn
 #import iptvhdFcn
 #import model
 import json
@@ -9,10 +10,30 @@ from urllib.parse import unquote
 import importlib
 import time
 import os
+from collections import deque
 port = int(os.environ.get("PORT", 5000))	
 PORT_NUMBER = port
 
+
 listadecanales=''
+todosChn=''
+catsDir='templates/listas/'
+infoDir='templates/info.m3u'
+def readCats(cats):
+	miLista=''
+	f=open('templates/info.m3u')
+	miLista=f.read()+'\n'
+	f.close()
+	for cat in cats:
+		#try:
+			print(cat,flush=True)
+			f=open(catsDir+cat+'.m3u',encoding="utf8",errors='ignore')
+			miLista=miLista+f.read()+'\n'
+			f.close()
+		#except:
+			pass
+	return miLista	
+
 def readList():
 	global listadecanales
 	nowLive.updateList()
@@ -24,7 +45,15 @@ def readList():
 		listadecanales=listadecanales+'\n'+data.read()
 		data.close()
 	print (listadecanales)
+	todosChn=todosFcn.getTodos()
+def Convert(string):
+    list1=[]
+    list1[:0]=string
+    return list1
 
+def shift(seq, n):
+    n = n % len(seq)
+    return seq[n:] + seq[:n]
 app = Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 @app.route("/")
@@ -52,6 +81,16 @@ def listaiptv():
 @app.route("/listaiptv.m3u")
 def listaiptvm3u():
 	global lasUpdate
+	cats = request.args.get('cats', default = '', type = str)
+	sr=request.args.get('sr', default = 0, type = int)
+	r=int(sr/5)
+	cates=Convert(cats)
+	items = deque(cates)
+	items.rotate(r)
+	print(r,flush=True)
+	cate=''.join(items)
+	cate=cate.split(',')
+	print(cate,flush=True)
 	try:
 		print( ip_address = request.headers['X-Forwarded-For'])
 	except:
@@ -61,7 +100,10 @@ def listaiptvm3u():
 		#iptvhdFcn.getChannels()
 		lasUpdate=time.time()
 		readList()
-	return listadecanales
+	if cate:
+		return readCats(cate)
+	else:
+		return listadecanales
 readList()
 lasUpdate=time.time()
 if __name__ == "__main__":
