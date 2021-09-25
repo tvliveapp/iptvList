@@ -25,3 +25,129 @@ http://st2.worldkast.com/8004/8004/playlist.m3u8
 http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
 #EXTINF:0 group-title="honduras" type="stream" channelId="-1", EDN TV
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:0 group-title="honduras" type="stream" channelId="-1", UNO
+https://tvdatta.com:3392/live/portaldelsurhnlive.m3u8
+#EXTINF:0 group-title="honduras" type="stream" channelId="-1", Telerayo NY
+https://emisoras.hn:8081/telerayony/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras" type="stream" channelId="-1", ATV
+https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",TVG 28
+http://bks40001.gttstreamtv.com/bpk-token/kaceqgmi5yaaaaaaas5ftwcaaaaaaaaaaaacecbhujrsd1qg/0000084/TVG-audio_128301_und=128000-video=1800000.m3u8
+#EXTINF:0 group-title="honduras",BTV Panama
+https://cloud.streamingconnect.tv:455/btv/btv.m3u8
+#EXTINF:0 group-title="honduras",BTV Panama
+https://stream.oursnetworktv.com/latin/btvp/chunklist_w750515228.m3u8
+#EXTINF:0 group-title="honduras",Docurama (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:0 group-title="honduras",FETV (Canal 5)
+https://live-ak.vimeocdn.com/exp=1614090310~acl=%2Ffae3e7a3-0288-44ae-b6ae-4cf0a1df8996%2F%2A~hmac=4c62a612483a14eba2761286974cfe2b862fca87cf354864652ace78b99ceecf/fae3e7a3-0288-44ae-b6ae-4cf0a1df8996/chunklist_b3256000.m3u8
+#EXTINF:0 group-title="honduras",France 24 Spanish (576p)
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:0 group-title="honduras",Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",OYE TV
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
+#EXTINF:0 group-title="honduras",RPC (720p)
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
+#EXTINF:0 group-title="honduras",RPC Radio
+https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
+#EXTINF:0 group-title="honduras",Sertv 
+https://live-ak.vimeocdn.com/exp=1614089352~acl=%2F26358520-52cd-4157-9617-ef13477e66b9%2F%2A~hmac=2dbd2f2d3f78f196c4f10e814b4d7181ff9dc97f2381f359f733db8936d57213/26358520-52cd-4157-9617-ef13477e66b9/chunklist_b3256000.m3u8
+#EXTINF:0 group-title="honduras",Telemetro (720p)
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+#EXTINF:0 group-title="honduras",45TV [OFF]
+https://5c21f7ec1999d.streamlock.net/8158/8158/playlist.m3u8
+#EXTINF:0 group-title="honduras",Alsacias TV
+https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:0 group-title="honduras",CCI Channel
+https://5d597bfcee285.streamlock.net/cci/cci/chunklist_w1843954370.m3u8
+#EXTINF:0 group-title="honduras",CHTV
+https://5d00db0e0fcd5.streamlock.net/7114/7114/chunklist_w704363830.m3u8
+#EXTINF:0 group-title="honduras",Canal 5 El Lider
+https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_0/chunklist.m3u8
+#EXTINF:0 group-title="honduras",Canal 51
+https://5d00db0e0fcd5.streamlock.net/7144/7144/chunklist_w1551882553.m3u8
+#EXTINF:0 group-title="honduras",Canal 11 [REC]
+https://videos-fms.jwpsrv.com/0_6037c46b_0x92a824631bd2eb8eccd3eb9d8053ac62c35dbd7f/content/conversions/Fp4r5zEW/videos/gvMIv9SP-27505087.mp4.m3u8
+#EXTINF:0 group-title="honduras",Canal 6
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ba026492cdc1a7124d02fb7/playlist.m3u8
+#EXTINF:0 group-title="honduras",CANAL 32 -OLANCHITO [REC]
+https://www.youtube.com/watch?v=j-eApkErOkg
+#EXTINF:0 group-title="honduras",Cholusat Sur 36
+http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1383291243.m3u8
+#EXTINF:0 group-title="honduras",Choluteca Tv
+https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",Choluvision Canal 27 [REC]
+https://www.youtube.com/watch?v=qmtaMaT6suk
+#EXTINF:0 group-title="honduras",Dios Te Ve
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",Dios Te Ve Kids
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",DTP
+https://emisoras.hn:8081/dtp/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",DTV
+https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",Ebenezer TV
+https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/chunklist_w2060657642_b850000_slen.m3u8
+#EXTINF:0 group-title="honduras",EDN TV
+https://59802217c6db4.streamlock.net/edntv/videoedntv/chunklist_w1273750624.m3u8
+#EXTINF:0 group-title="honduras",FDC Tv
+https://emisoras.hn:8081/fdctv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",Globo TV
+https://panel.dattalive.com/8122/8122/chunklist_w1347073893.m3u8
+#EXTINF:0 group-title="honduras",HCH
+https://5d597bfcee285.streamlock.net/hch/hch/chunklist_w88781575.m3u8
+#EXTINF:0 group-title="honduras",Hondured 13
+https://5d597bfcee285.streamlock.net/hondured/hondured/chunklist_w1344833127.m3u8
+#EXTINF:0 group-title="honduras",JBN TV
+https://emisoras.hn:8081/jbn/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",Life TV
+http://184.173.181.2:1935/8070/8070/playlist.m3u8
+#EXTINF:0 group-title="honduras",Maya TV [OFF]
+https://5d00db0e0fcd5.streamlock.net:443/7202/7202/playlist.m3u8
+#EXTINF:0 group-title="honduras",Metro Tv
+https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",Mi Viña Channel {MVC}
+https://5b50404ec5e4c.streamlock.net/8056/smil:8056.smil/chunklist_w363076483_b1250000.m3u8
+#EXTINF:0 group-title="honduras",Q'hubo TV
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1084071203.m3u8
+#EXTINF:0 group-title="honduras",Sercano TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w781573373_b1848000.m3u8
+#EXTINF:0 group-title="honduras",STVE Telebásica 1
+https://dai.ly/x7so2sc
+#EXTINF:0 group-title="honduras",Si TV
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w865187166.m3u8
+#EXTINF:0 group-title="honduras",Suyapa TV
+https://dai.ly/x7syylm
+#EXTINF:0 group-title="honduras",Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:0 group-title="honduras",TeleHonduras
+https://emisoras.hn:8081/telehn/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",TeleHonduras Mas
+https://emisoras.hn:8081/telehnmas/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",TeleProgreso
+https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/chunklist_w1010329388.m3u8
+#EXTINF:0 group-title="honduras",Telerayo
+https://emisoras.hn:8081/telerayo/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",Telerayo NY
+https://emisoras.hn:8081/telerayony/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",TEN Canal 10
+http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w824670757_b1848000.m3u8
+#EXTINF:0 group-title="honduras",TEN HD Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:0 group-title="honduras",TeleProgreso
+https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/chunklist_w1652656497.m3u8
+#EXTINF:0 group-title="honduras",Todo Deportes Plus TV (TDTV+)
+https://5fc584f3f19c9.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/chunklist_w1929202482_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIxIDI6MzM6MDEgUE0maGFzaF92YWx1ZT1CQVVEK1hCT0ZDVlZWY2YwalJiTGx3PT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
+#EXTINF:0 group-title="honduras",TSI
+https://www.dailymotion.com/video/x7xs2wx
+#EXTINF:0 group-title="honduras",TV Copan
+https://emisoras.hn:8081/tvcopan/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",TV Estrella
+https://emisoras.hn:8081/tvestrella/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras",UNAH UTV
+https://live-utv.unah.edu.hn/web/salida.m3u8
+#EXTINF:0 group-title="honduras",Unción TV (Canal 41) 
+https://www.webmedialive.org:1936/8022/8022/chunklist_w210918147.m3u8
