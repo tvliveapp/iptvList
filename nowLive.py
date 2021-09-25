@@ -28,7 +28,7 @@ def getEpg():
 	try:
 		req = requests.get(url)
 
-		response = req.text
+		#response = req.text
 		print(response)
 		n=0
 		for line in (str(response).split(epgDel)[1:-1]):
