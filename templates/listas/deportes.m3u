@@ -582,4 +582,11 @@ https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBJI5Jw.png" group-title="DEPORTES",Sport 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES",*ESPN
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", *All Sports Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES",*DIRECT TV SPORT
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
