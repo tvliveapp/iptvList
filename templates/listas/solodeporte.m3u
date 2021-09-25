@@ -107,3 +107,20 @@ http://geoiptv.me:8880/live/iptvtree/yfL7uQLwXl/136047.ts
 http://geoiptv.me:8880/live/iptvtree/yfL7uQLwXl/136049.ts
 #EXTINF:-1 group-title="ES SOLO DEPORTES",TELEDEPORTE
 http://geoiptv.me:8880/live/iptvtree/yfL7uQLwXl/136189.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ES SOLO DEPORTES", *BEIN LA LIGA
+http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ES SOLO DEPORTES", *GOL
+http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ES SOLO DEPORTES", *BARZA TV
+http://91.126.138.141:1935/live/barza/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/REALMADRIDTVpng" group-title="ES SOLO DEPORTES", *REAl Madrid TV
+http://91.126.39.101:1935/live/realmadridnntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/EUROS1png" group-title="ES SOLO DEPORTES", *EURO SPORT 1
+http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
+
+
