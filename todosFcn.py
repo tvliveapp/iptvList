@@ -13,4 +13,4 @@ def getTodos():
 				pass
 	#print(todos[cat])
 	return todos
-print(getTodos())
+#print(getTodos())
