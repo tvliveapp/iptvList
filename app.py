@@ -26,7 +26,7 @@ def readCats(cats):
 	f.close()
 	for cat in cats:
 		try:
-			print(cat,flush=True)
+			#print(cat,flush=True)
 			f=open(catsDir+cat+'.m3u',encoding="utf8",errors='ignore')
 			miLista=miLista+f.read()+'\n'
 			f.close()
@@ -44,7 +44,7 @@ def readList():
 		data=open('templates/listas/'+lista,encoding="utf8")
 		listadecanales=listadecanales+'\n'+data.read()
 		data.close()
-	print (listadecanales)
+	#print (listadecanales)
 	todosChn=todosFcn.getTodos()
 def Convert(string):
     list1=[]
