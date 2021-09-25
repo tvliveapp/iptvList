@@ -714,101 +714,101 @@ https://cloud.streamingconnect.tv:455/radiotvzafra/radiotvzafra.m3u8
 https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:0 group-title="españa",À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="INTERNACIONAL", ARAGON TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="españa", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kbgoyvg.png" group-title="INTERNACIONAL",Canal Super 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kbgoyvg.png" group-title="españa",Canal Super 3
 https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" group-title="INTERNACIONAL", CANAL SUR ANDALUCIA
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" group-title="españa", CANAL SUR ANDALUCIA
 https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8
 
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="INTERNACIONAL", TELECINCO
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="españa", TELECINCO
 http://ultraplay.org:80/DANIEL13W/2019XTR/53773
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="INTERNACIONAL", IMAS TV ESPAÑA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="españa", IMAS TV ESPAÑA
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8   
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/direfm.teleame.com/wp-content/uploads/2019/07/canal-malaga-en-directo-online.png?fit=696%2C392&ssl=1" group-title="INTERNACIONAL", CANAL MALAGA
+#EXTINF:-1 tvg-logo="https://i2.wp.com/direfm.teleame.com/wp-content/uploads/2019/07/canal-malaga-en-directo-online.png?fit=696%2C392&ssl=1" group-title="españa", CANAL MALAGA
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" group-title="INTERNACIONAL",Canal Extremadura
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" group-title="españa",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeC5t44.png" group-title="INTERNACIONAL",Elche 7 TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeC5t44.png" group-title="españa",Elche 7 TV
 https://streaming.elche7tv.es/hls/canal2.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg" group-title="INTERNACIONAL", 7 MURCIA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg" group-title="españa", 7 MURCIA
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png" group-title="INTERNACIONAL",7 La Rioja
+#EXTINF:-1 tvg-logo="https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png" group-title="españa",7 La Rioja
 https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Eitb_corp.png" group-title="INTERNACIONAL", EITB BASQUE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Eitb_corp.png" group-title="españa", EITB BASQUE
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL", TELEMADRID
+#EXTINF:-1 tvg-logo="" group-title="españa", TELEMADRID
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL", LA OTRA
+#EXTINF:-1 tvg-logo="" group-title="españa", LA OTRA
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2017/05/logo-oatv-footer-final.png" group-title="INTERNACIONAL", ONDA ALGECIRAS ESPAÑA
+#EXTINF:-1 tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2017/05/logo-oatv-footer-final.png" group-title="españa", ONDA ALGECIRAS ESPAÑA
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ivab.es/wp-content/uploads/2020/11/LOGO-7-TELEVALENCIA-300x169.jpg" group-title="INTERNACIONAL", 7 TeleValencia
+#EXTINF:-1 tvg-logo="http://www.ivab.es/wp-content/uploads/2020/11/LOGO-7-TELEVALENCIA-300x169.jpg" group-title="españa", 7 TeleValencia
 https://live-edge-rbx-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", GALICIA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="españa", GALICIA TV
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhvkYeg.jpg" group-title="INTERNACIONAL", 101 Tele Antequera
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhvkYeg.jpg" group-title="españa", 101 Tele Antequera
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="INTERNACIONAL", 101 TV Malaga
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="españa", 101 TV Malaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="INTERNACIONAL",Canal 25 TV Barbastro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="españa",Canal 25 TV Barbastro
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="INTERNACIONAL",Canal 33 Madrid
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="españa",Canal 33 Madrid
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QBzvCJc.png" group-title="INTERNACIONAL",Canal San Roque
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QBzvCJc.png" group-title="españa",Canal San Roque
 https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Btnzf1m.png" group-title="INTERNACIONAL",Condavisión
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Btnzf1m.png" group-title="españa",Condavisión
 http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5KXkBbs.jpg" group-title="INTERNACIONAL",Diez TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5KXkBbs.jpg" group-title="españa",Diez TV
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320" group-title="INTERNACIONAL",Canal 45 TV ESPAÑA
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320" group-title="españa",Canal 45 TV ESPAÑA
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="INTERNACIONAL",7 TV Andalucía
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="españa",7 TV Andalucía
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835804/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="INTERNACIONAL",7 TV Andalucía (Bahia)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="españa",7 TV Andalucía (Bahia)
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835790/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="INTERNACIONAL",7 TV Andalucía (Costa Noroeste)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="españa",7 TV Andalucía (Costa Noroeste)
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835802/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="INTERNACIONAL",7 TV Andalucía (Córdoba)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="españa",7 TV Andalucía (Córdoba)
 https://dcunilive265-lh.akamaihd.net/i/dclive_1@409360/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="INTERNACIONAL",7 TV Andalucía (Jaén) 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="españa",7 TV Andalucía (Jaén) 
 https://dcunilive266-lh.akamaihd.net/i/dclive_1@426886/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="INTERNACIONAL",7 TV Andalucía (Jerez) 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="españa",7 TV Andalucía (Jerez) 
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835794/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="INTERNACIONAL",7 TV Andalucía (Sevilla)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="españa",7 TV Andalucía (Sevilla)
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835800/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="INTERNACIONAL",7 TV Andalucía (Sierra)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="españa",7 TV Andalucía (Sierra)
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835792/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="INTERNACIONAL",Alcarria TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="españa",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
