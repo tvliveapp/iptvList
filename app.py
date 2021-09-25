@@ -35,7 +35,7 @@ def readCats(cats):
 	return miLista	
 
 def readList():
-	global listadecanales
+	global listadecanales, todosChn
 	nowLive.updateList()
 	data=open('templates/info.m3u')
 	listadecanales=data.read()
