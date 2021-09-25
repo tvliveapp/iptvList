@@ -25,12 +25,12 @@ def readCats(cats):
 	miLista=f.read()+'\n'
 	f.close()
 	for cat in cats:
-		#try:
+		try:
 			print(cat,flush=True)
 			f=open(catsDir+cat+'.m3u',encoding="utf8",errors='ignore')
 			miLista=miLista+f.read()+'\n'
 			f.close()
-		#except:
+		except:
 			pass
 	return miLista	
 
