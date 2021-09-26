@@ -102,7 +102,7 @@ def listaiptvm3u():
 	except:
 		pass
 	if time.time()-lasUpdate>18000:
-		#nowLive.updateList()
+		nowLive.updateList()
 		#iptvhdFcn.getChannels()
 		lasUpdate=time.time()
 		readList()
