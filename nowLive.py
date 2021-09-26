@@ -125,7 +125,7 @@ def getStreamLink(referUrl):
 
 def updateList():
 	canales=getChannels()
-	playLits=open('templates/listas/nowlive.m3u','w')
+	playLits=open('templates/listas/evd2.m3u','w')
 	#playLits.write('#EXTM3U\n')
 	for canal in canales:
 		for even in canal['epg']:
