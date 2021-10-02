@@ -1,0 +1,85 @@
+#EXTINF:-1 tvg-logo=https://i.imgur.com/kL7wfxx.png group-title="spliktv", Telefe
+https://sv.spliktv.xyz/live/caster/RA/TelefeHD.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/QYCGBDr.png group-title="spliktv", El Trece
+https://sv.spliktv.xyz/live/caster/RA/ArtearHD.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/1pL3PDP.png group-title="spliktv", El Nueve
+https://sv.spliktv.xyz/live/caster/RA/Canal9.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/RWqma2H.png group-title="spliktv", TV Publica Argentina
+https://sv.spliktv.xyz/live/caster/RA/Canal7.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Yo2ZRMk.png group-title="spliktv", Todo Noticias
+https://sv.spliktv.xyz/live/caster/RA/TodoNoticias.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/5uaqtbK.png group-title="spliktv", IP Noticias
+https://sv.spliktv.xyz/live/caster/FR/IP.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/TPELrc4.png group-title="spliktv", RCN Internacional
+https://sv.spliktv.xyz/live/caster/RD/RCN.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/NacOwRY.png group-title="spliktv", NTN24
+https://sv.spliktv.xyz/live/caster/CO/ntn24_dx.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Lim2iJU.png group-title="spliktv", Canal Uno
+https://sv.spliktv.xyz/live/caster/CO/canal_uno_sd.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/8k1aYLD.png group-title="spliktv", Señal Colombia
+https://sv.spliktv.xyz/live/caster/CO/SE-CO.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/dkoeyrr.png group-title="spliktv", Telecafé
+https://sv.spliktv.xyz/live/caster/CO/TELECAFE.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/MuQhhq6.png group-title="spliktv", Tele Vid
+https://sv.spliktv.xyz/live/caster/CO/TELEVID.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/VCOZMPm.png group-title="spliktv", Telecaribe
+https://sv.spliktv.xyz/live/caster/CO/TELECARIBE.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/rRRTHrJ.png group-title="spliktv", Ecuavisa (Test)
+https://sv.spliktv.xyz/live/caster/EC/ECUAVISA.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/zKK1u4z.png group-title="spliktv", Teleamazonas (Test)
+https://sv.spliktv.xyz/live/caster/EC/TELEAMAZONAS.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/fhBYTHD.png group-title="spliktv", RTS (Test)
+https://sv.spliktv.xyz/live/caster/EC/RTS.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/JEykee8.png group-title="spliktv", Canal UNO (Test)
+https://sv.spliktv.xyz/live/caster/EC/UNO.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/BmeDjsN.png group-title="spliktv", Las Estrellas
+http://sv.spliktv.xyz/live/caster/RU/LAS-ESTRELLAS.m3u8?captions#EXTINF:-1 tvg-logo=https://i.imgur.com/Mx5078g.png group-title="spliktv", ADN 40
+https://sv.spliktv.xyz/live/caster/RU/ADN40.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/UcpLjO1.png group-title="spliktv", Foro TV
+https://sv.spliktv.xyz/live/caster/RU/FOROTV.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/bpQW7C1.png group-title="spliktv", RPC
+https://sv.spliktv.xyz/live/caster/PA/RPC.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/URLpcao.png group-title="spliktv", Telemetro
+https://sv.spliktv.xyz/live/caster/PA/TELEMETRO.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/npUquFr.png group-title="spliktv", TV Max
+https://sv.spliktv.xyz/live/caster/PA/TVMAX.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/iJwgPNm.png group-title="spliktv", TVN
+https://sv.spliktv.xyz/live/caster/PA/TVN.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/44YarsR.png group-title="spliktv", Nex TV
+https://sv.spliktv.xyz/live/caster/PA/NEXTV.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/UcXIxNr.png group-title="spliktv", Oye
+https://sv.spliktv.xyz/live/caster/PA/OYE.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Q6AlqgV.png group-title="spliktv", ABC
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?caster
+#EXTINF:-1 tvg-logo=https://i.imgur.com/vvmLeE3.png group-title="spliktv", Latina
+https://sv.spliktv.xyz/live/caster/PE/LATINA.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/ikBIBIA.png group-title="spliktv", Perú Magico
+https://sv.spliktv.xyz/live/caster/RB/PERU-MAGICO.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/aHQKSOH.png group-title="spliktv", TV Peru
+https://sv.spliktv.xyz/live/caster/PE/TVPERU.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/shY1naj.png group-title="spliktv", TV Peru Noticias
+https://sv.spliktv.xyz/live/caster/PE/TVPERU-N.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/zZsgRtQ.png group-title="spliktv", Panamericana
+https://sv.spliktv.xyz/live/caster/PE/PANAMERICANA.m3u8
+#EXTINF:-1 tvg-logo=https://imgur.com/eBJBWBc.png group-title="spliktv", Discovery Channel
+https://sv.spliktv.xyz/live/caster/RA/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/F3L3XoF.png group-title="spliktv", History Channel
+https://sv.spliktv.xyz/live/caster/RA/HistoryHD.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/hHd3J9h.png group-title="spliktv", Star Channel
+https://sv.spliktv.xyz/live/caster/RA/FXHD.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/7gw33DA.png group-title="spliktv", TNT
+https://sv.spliktv.xyz/live/caster/RA/TNT.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/rRfXpF6.png group-title="spliktv", Cinecanal
+https://sv.spliktv.xyz/live/caster/RA/CinecanalHD.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/MC8zVlK.png group-title="spliktv", Space
+https://sv.spliktv.xyz/live/caster/RA/Space.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/hkw9XKD.png group-title="spliktv", Globo
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/JlOyDbu.png group-title="spliktv", RT en Español
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/kYffnE8.png group-title="spliktv", Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/jbuPTCo.png group-title="spliktv", Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Lz6EGJy.png group-title="spliktv", Top Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
