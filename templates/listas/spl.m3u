@@ -83,3 +83,41 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://i.imgur.com/Lz6EGJy.png group-title="spliktv", Top Latino
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1 group-title="spliktv",Gol TV 
+https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8
+#EXTINF:-1 group-title="spliktv",Gol TV en
+https://sv.spliktv.xyz/live/caster/RB/GOLTV-EN.m3u8
+#EXTINF:-1 group-title="spliktv",TyC Int
+https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8
+#EXTINF:-1 group-title="spliktv",TNT SORTS CL
+https://sv.spliktv.xyz/live/caster/TNT-SPORTS-CL.m3u8
+#EXTINF:-1 group-title="spliktv",bein es
+https://sv.spliktv.xyz/live/caster/RB/BEIN-SPORTS-ES.m3u8
+#EXTINF:-1 group-title="spliktv",bein en
+https://sv.spliktv.xyz/live/caster/RB/BEIN-SPORTS-EN.m3u8
+#EXTINF:-1 group-title="spliktv",bein extra en
+https://sv.spliktv.xyz/live/caster/RB/BEIN-SPORTS-XTRA-EN.m3u8
+#EXTINF:-1 group-title="spliktv",bein CONNECT 3
+https://sv.spliktv.xyz/live/caster/RB/BEIN-CONNECT-3.m3u8
+#EXTINF:-1 group-title="spliktv",bein CONNECT 4
+https://sv.spliktv.xyz/live/caster/RB/BEIN-CONNECT-4.m3u8
+#EXTINF:-1 group-title="spliktv",bein CONNECT 5
+https://sv.spliktv.xyz/live/caster/RB/BEIN-CONNECT-5.m3u8
+#EXTINF:-1 group-title="spliktv",bein CONNECT 6
+https://sv.spliktv.xyz/live/caster/RB/BEIN-CONNECT-6.m3u8
+#EXTINF:-1 group-title="spliktv",bein CONNECT 7
+https://sv.spliktv.xyz/live/caster/RB/BEIN-CONNECT-7.m3u8
+#EXTINF:-1 group-title="spliktv",bein CONNECT 8
+https://sv.spliktv.xyz/live/caster/RB/BEIN-CONNECT-8.m3u8
+#EXTINF:-1 group-title="spliktv",claro sports
+https://sv.spliktv.xyz/live/caster/CLARO-SPORTS.m3u8
+#EXTINF:-1 group-title="spliktv",tigo guatemala
+https://sv.spliktv.xyz/live/caster/RB/TIGO-SPORTS.m3u8
+#EXTINF:-1 group-title="spliktv",tigo paraguay
+https://sv.spliktv.xyz/live/caster/REDE/TIGO-PY.m3u8
+#EXTINF:-1 group-title="spliktv",tigo bolivia 1
+https://sv.spliktv.xyz/live/caster/REDE/TIGO-BO1.m3u8
+#EXTINF:-1 group-title="spliktv",tigo bolivia 2
+https://sv.spliktv.xyz/live/caster/REDE/TIGO-BO2.m3u8
+#EXTINF:-1 group-title="spliktv",tigo costa rica
+https://sv.spliktv.xyz/live/caster/REDE/TIGO-CR.m3u8
