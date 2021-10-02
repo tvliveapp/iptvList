@@ -121,3 +121,5 @@ https://sv.spliktv.xyz/live/caster/REDE/TIGO-BO1.m3u8
 https://sv.spliktv.xyz/live/caster/REDE/TIGO-BO2.m3u8
 #EXTINF:-1 group-title="spliktv",tigo costa rica
 https://sv.spliktv.xyz/live/caster/REDE/TIGO-CR.m3u8
+#EXTINF:-1 group-title="spliktv",tnt sports
+https://centurylink.br.cdn.booyah.live/hls/1000064/89348503.m3u8
