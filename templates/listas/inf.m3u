@@ -244,3 +244,22 @@ https://www.youtube.com/watch?v=SbugOb2aYFg
 
 #EXTINF:-1 group-title="INFANTIL", TV PARA NIÑOS
 https://www.youtube.com/watch?v=fyuT-mzTuWM
+
+#EXTINF:-1 group-title="INFANTIL", Boomerang
+http://23.237.29.98:4153/308BoomerangMexico/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="INFANTIL", Disney jr
+http://208.88.246.11:4153/303DisneyJunior/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8?nimblesessionid=463839623
+#EXTINF:-1 group-title="INFANTIL", Nickelodeon
+http://38.18.238.42:4153/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_6580351_20882416_3182.ts?nimblesessionid=641562632
+
+#EXTINF:-1 group-title="INFANTIL", Nick Jr
+http://23.237.29.98:4153/306NickJrLatinAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_37269484_20922156_3072.ts?nimblesessionid=294504827
+EXTINF:-1 group-title="INFANTIL", Baby tv
+http://23.237.29.98:4153/315BabyTVLatinAmerica/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+EXTINF:-1 group-title="INFANTIL", Discovery kids
+http://38.18.238.42:4153/310discoverykids/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8?nimblesessionid=641586153
+EXTINF:-1 group-title="INFANTIL", Disney Channel
+http://38.18.238.42:4153/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+EXTINF:-1 group-title="INFANTIL", Canal 5 mx
+http://38.18.238.42:4153/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8?nimblesessionid=641597553
