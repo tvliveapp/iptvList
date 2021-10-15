@@ -151,3 +151,33 @@ https://emisoras.hn:8081/tvestrella/tracks-v1a1/mono.m3u8
 https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:0 group-title="honduras",Unción TV (Canal 41) 
 https://www.webmedialive.org:1936/8022/8022/chunklist_w210918147.m3u8
+#EXTINF:0 group-title="honduras", HCH TV 
+https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpm2L6_jSHj9LDugPmXULucM)/dm/3/x81za5c/s/live-3.m3u8
+#EXTINF:0 group-title="honduras", Canal 5
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_0/chunklist.m3u8
+#EXTINF:0 group-title="honduras", Canal 11
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/603d4e1fb042ce07c5c8f911/publish/media_2500.m3u8?aid=60356e540f843032743f6852&uid=mgFr6ZvjpkF1HFnw5qEyf42sf9Ufb4qr&sid=0ODANOcPK9JJGwimC3FFNBfek8Fp6INa&pid=ot2E3EzzTysawb8ENTfNNTVFS01tKDYu&ref=https%3A%2F%2Fcanal11.hn%2F&without_cookies=false&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1625769057679&ot=iCIm90tMjV622AHEfvwXYQ&proto=https&pz=us
+#EXTINF:0 group-title="honduras", Canal 10
+https://604bda2ac71ad.streamlock.net/TENHD/TENLive.smil/chunklist_w1372000118_b1248000.m3u8
+#EXTINF:0 group-title="honduras", Telecadena 7 y 5
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_0/chunklist.m3u8
+#EXTINF:0 group-title="honduras", La Metro
+https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="honduras", SI TV
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w361295549.m3u8
+#EXTINF:0 group-title="honduras", Alsasias
+https://emisoras.hn:8081/atv/index.m3u8
+#EXTINF:0 group-title="honduras", Canal 1
+https://tvdatta.com:3392/live/portaldelsurhnlive.m3u8
+#EXTINF:0 group-title="honduras", Choluteca
+https://emisoras.hn:8081/cholutecatv/index.m3u8
+#EXTINF:0 group-title="honduras", CCI
+https://stream-02.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm49stFp2rp5jdhRrAzz31v7M)/dm/3/x836wjl/s/live-2.m3u8
+#EXTINF:0 group-title="honduras",Teleprogreso
+https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/chunklist_w298831071.m3u8
+
+
+
+
+
+
