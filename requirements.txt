@@ -2,3 +2,4 @@ flask==0.10.1
 pyftpdlib
 beautifulsoup4
 requests
+pyGithub
