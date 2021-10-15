@@ -10,7 +10,7 @@ from urllib.parse import unquote
 import importlib
 import time
 import os
-import pastebin
+#import pastebin
 from collections import deque
 import myGit
 port = int(os.environ.get("PORT", 5000))	
