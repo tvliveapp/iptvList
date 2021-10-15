@@ -10,10 +10,12 @@ from urllib.parse import unquote
 import importlib
 import time
 import os
+import pastebin
 from collections import deque
+import myGit
 port = int(os.environ.get("PORT", 5000))	
 PORT_NUMBER = port
-
+ 
 
 listadecanales=''
 todosChn=''
@@ -56,6 +58,12 @@ def shift(seq, n):
     return seq[n:] + seq[:n]
 app = Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
+
+@app.route("/crear")
+def crear():
+	return render_template("crearlista.html")
+
+
 @app.route("/")
 def root():
 	return render_template("test.html")
@@ -110,6 +118,23 @@ def listaiptvm3u():
 		return readCats(cate)
 	else:
 		return listadecanales
+@app.route("/paste")
+def paste():
+    name = request.args.get('name', default = 'newList', type = str)
+    lista=request.args.get('list', default = "", type = str)
+    print(name)
+    base64_bytes = lista.encode('ascii')
+    message_bytes = base64.b64decode(base64_bytes)
+    message = message_bytes.decode('ascii')
+    '''
+    pastebin.data['api_paste_code']=message
+    pastebin.data['api_paste_name']=name
+    #     resp=pastebin.pasteBin(pastebin.data)
+    '''
+    resp=myGit.createFile(str(time.time()),message)
+    print (resp)
+    return resp
+    
 readList()
 lasUpdate=time.time()
 if __name__ == "__main__":
