@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<style type="text/css">
+  .selected{
+    background-color: green;
+  }
+  .nselected{
+    background-color: #efefef;
+  }
+  #subs{
+    width:100px;
+    height:50px;
+    /*just this*/ background-image: url(http://www.onlinetotalguide.in/wp-content/uploads/2019/04/subscribe-gif-3.bak.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100px 50px;
+
+  }
+</style>
+<body>
+
+<div>
+  <button id='subs' onclick="window.open('https://www.youtube.com/user/lfrenteriax?sub_confirmation=1','MsgWindow','width=300,height=250');">
+    
+  </button>
+  <h1>Al finalizar el video presiona Crear Lista </h1>
+  <h1 id='finalUrl'> </h1>
+  
+  
+</div>
+<div id="ytplayer"></div>
+  <h1 id="ex_title">Todos los canales van con el nombre y el URL, uno en cada linea:</h1>
+   <a href="javascript: void();" onclick="document.getElementById(&quot;example1&quot;).style.display=&quot;block&quot;;" style="color: #cccccc;">Ejemplo</a>
+  <div id="example1" style="border: dashed 1px #ccc; color: black; display: none; font-size: 11px; margin-bottom: 20px; margin-top: 20px; padding: 4px; width: 300px;">
+Ibiza On TV<br />
+mms://81.174.67.45/ibizaontv<br />
+TMF Dance<br />
+mms://94.75.250.121:554/39987@662299?MSWMExt=.asf<br />
+Worm TV<br />
+mms://wms.global-streaming.net/04988
+</div>
+  <textarea id="input" style="height: 200px; width: 99.2%;"></textarea>
+ <h1 id="playlist"> Playlist:</h1>
+ <textarea disabled="disabled" id="output" name="output" style="height: 200px; width: 99.2%;"></textarea> 
+ <button style='display: none;'id='gnrBtn' onclick="generarUrl()">
+    Crear lista
+  </button>
+<script>
+  // Load the IFrame Player API code asynchronously.
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/player_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  // Replace the 'ytplayer' element with an <iframe> and
+  // YouTube player after the API code downloads.
+  var player;
+  function onYouTubePlayerAPIReady() {
+    player = new YT.Player('ytplayer', {
+      height: '360',
+      width: '640',
+      videoId: 'onZM57LIUek',
+      loop: 1,
+      events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+    });
+
+
+  }
+  var onePlay=0;
+  function onPlayerReady(event) {
+        event.target.playVideo();
+        player.mute();
+      }
+  function onPlayerStateChange(event) {
+    console.log( YT.PlayerState.PLAYING)
+    console.log(player.getPlayerState())
+    if(!player.getPlayerState())
+      onePlay=1;
+    if (player.getPlayerState()!=2 && onePlay)
+      gnrBtn.style.display='block';
+    else{
+      gnrBtn.style.display='none';
+      if(player.getPlayerState()==2)
+        alert('no pause el video...');
+    }
+
+  }
+var canales;
+ function httpGet(data)
+{
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", "/paste?name=leo1&list="+btoa(data), false ); // false for synchronous request
+    xmlHttp.send( null );
+    canales= xmlHttp.responseText;
+    document.getElementById("output").value = data;
+    document.getElementById("playlist").innerHTML ="Playlist:"+canales ;
+    
+
+}
+
+var  gnrBtn =document.getElementById('gnrBtn');
+function generarUrl(){
+ document.getElementById("output").disabled=false;
+ var inp = document.getElementById("input").value;
+ inp = inp.replace(/\n+$/m, '');
+ inp = inp.split(/[\r\n]+/);
+ var out="";
+ 
+  if(document.getElementById("input").value!=""){
+    if(!(inp.length%2)){
+      var c = 0;
+      for(i=0; i<inp.length; i++){
+       if(c == 1){
+        c=0;
+        out = out + inp[i] + "\n";
+       }else{
+        c=1;
+        out = out + '#EXTINF:0,' + inp[i] + "\n";
+       }
+      }
+      
+      httpGet('#EXTM3U' + "\n" +out);
+    }else{
+      alert('Escriba el nombre del canal y el URL, uno en cada linea');
+      document.getElementById("input").focus();
+     }
+  }else{
+      alert('Ingrese el nombre de los canales y el url en la primera ventana');
+      document.getElementById("input").focus();
+  }
+    
+ 
+}
+</script>
+
+</body>
+</html> 
