@@ -12,7 +12,7 @@ import time
 import os
 #import pastebin
 from collections import deque
-#import myGit
+import myGit
 port = int(os.environ.get("PORT", 5000))	
 PORT_NUMBER = port
  
@@ -132,7 +132,7 @@ def paste():
     pastebin.data['api_paste_name']=name
     #     resp=pastebin.pasteBin(pastebin.data)
     '''
-    #resp=myGit.createFile(str(time.time()),message)
+    resp=myGit.createFile(str(time.time()),message)
     print (resp)
     return resp
     
