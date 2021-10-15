@@ -1,9 +1,9 @@
 from github import Github
 import base64
 import requests # see https://2.python-requests.org/en/master/
-  
+github_api = 'https://api.github.com'
 #g = Github("tvliveapp@protonmail.ch", "tvliveapp@protonmail.ch")
-g = Github("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")
+g = Github(base_url=github_api, login_or_token="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")
 repo = g.get_user().get_repo("listasIptv")
 
 
