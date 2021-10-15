@@ -3,7 +3,7 @@ import base64
 import requests # see https://2.python-requests.org/en/master/
   
 #g = Github("tvliveapp@protonmail.ch", "tvliveapp@protonmail.ch")
-g = Github("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")
+g = Github("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")
 repo = g.get_user().get_repo("listasIptv")
 
 
