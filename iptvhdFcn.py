@@ -75,7 +75,7 @@ def getChannels():
                 leolist.write(chUrl.replace('"','')+'\n')
             except:
                 print('error')
-    f=open('templates/nowlive.m3u','r')
+    f=open('templates/nowlive.m3u','r',encoding = "ISO-8859-1")
     leolist.write(f.read())
     leolist.write("\n")
     f.close()
