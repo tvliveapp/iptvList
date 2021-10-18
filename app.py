@@ -1,6 +1,6 @@
 
 from flask import Flask, render_template, request
-import nowLive
+#import nowLive
 import todosFcn
 import iptvhdFcn
 #import model
@@ -38,7 +38,7 @@ def readCats(cats):
 
 def readList():
 	global listadecanales, todosChn
-	nowLive.updateList()
+	#nowLive.updateList()
 	iptvhdFcn.getChannels()
 	data=open('templates/info.m3u')
 	listadecanales=data.read()
@@ -88,7 +88,7 @@ def listaiptv():
 	except:
 		pass
 	if time.time()-lasUpdate>18000:
-		nowLive.updateList()
+		#nowLive.updateList()
 		iptvhdFcn.getChannels()
 		lasUpdate=time.time()
 		readList()
@@ -111,7 +111,7 @@ def listaiptvm3u():
 	except:
 		pass
 	if time.time()-lasUpdate>18000:
-		nowLive.updateList()
+		#nowLive.updateList()
 		iptvhdFcn.getChannels()
 		lasUpdate=time.time()
 		readList()
