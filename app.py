@@ -140,5 +140,5 @@ def paste():
 readList()
 lasUpdate=time.time()
 if __name__ == "__main__":
-	app.run(host='0.0.0.0',port=PORT_NUMBER,debug = True)
+	app.run(host='0.0.0.0',port=PORT_NUMBER,debug = False)
 
