@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1 group-title="latino",microvision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 group-title="latino",MicroHD
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 group-title="latino",Maleta Mix TV
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="latino",TV Azteca Honduras
+http://190.122.96.187:8888/http/002
+#EXTINF:-1 group-title="latino",Miusic Pop chile
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="latino",Portal Mix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="latino",canal 55 dominicana
+http://ss8.domint.net:2128/stv_str/tv55/chunklist_w1389944491.m3u8
+#EXTINF:-1 group-title="latino",telecibao
+http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
+#EXTINF:-1 group-title="latino",garagetv
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 group-title="latino",EBENEZER HONDURAS
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2_source/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="latino",salvador digital
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="latino",wow
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="latino",argentino
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="latino",TENHD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1 group-title="latino",Warner
+http://38.131.11.9:1080/play/a05i
+#EXTINF:-1 group-title="latino",Universal
+http://38.131.11.9:1080/play/a00t
+#EXTINF:-1 group-title="latino",NatGeo Kids
+http://38.131.11.9:1080/play/a011
+#EXTINF:-1 group-title="latino",telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="latino",Nat Geo
+http://38.131.11.9:1080/play/a00q
+#EXTINF:-1 group-title="latino",DISCOVERY SCIENCE
+http://38.131.11.9:1080/play/a0dr
+#EXTINF:-1 group-title="latino",TLC
+http://38.131.11.9:1080/play/a030
+#EXTINF:-1 group-title="latino",A&E HD
+http://38.131.11.9:1080/play/a02q
+#EXTINF:-1 group-title="latino",TVP Peru
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 group-title="latino",foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="latino",pfmtv
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="latino",Cinemax
+http://38.131.11.9:1080/play/a01v
+#EXTINF:-1 group-title="latino",TNT
+http://38.131.11.9:1080/play/a013
+#EXTINF:-1 group-title="latino",Disney
+http://38.131.11.9:1080/play/a00p
+#EXTINF:-1 group-title="latino",Canal 10 Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="latino",cinecanal
+http://38.131.11.9:1080/play/a00s
+#EXTINF:-1 group-title="latino",Golden Edge
+http://38.131.11.9:1080/play/a0da
+#EXTINF:-1 group-title="latino",CNN en Espanol
+http://38.131.11.9:1080/play/a004
+#EXTINF:-1 group-title="latino",Canal de Las estrellas
+http://38.131.11.9:1080/play/a032
+#EXTINF:-1 group-title="latino",History 2 Hd
+http://38.131.11.9:1080/play/a0dd
+#EXTINF:-1 group-title="latino",TCM
+http://38.131.11.9:1080/play/a010
+#EXTINF:-1 group-title="latino",Fox Channel
+http://38.131.11.9:1080/play/a00u
+#EXTINF:-1 group-title="latino",TruTv HD
+http://38.131.11.9:1080/play/a0dx
+#EXTINF:-1 group-title="latino",Animal Planet
+http://38.131.11.9:1080/play/a02h
+#EXTINF:-1 group-title="latino",TELEMUNDO INTERNACIONAL
+http://38.131.11.9:1080/play/a035
+#EXTINF:-1 group-title="latino",HBO
+http://38.131.11.9:1080/play/a01u
+#EXTINF:-1 group-title="latino",Tectv
+http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
+#EXTINF:-1 group-title="latino",tmtv
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w728448538.m3u8
+#EXTINF:-1 group-title="latino",Space
+http://38.131.11.9:1080/play/a01y
+#EXTINF:-1 group-title="latino",D PELICULA
+http://38.131.11.9:1080/play/a0e8
+#EXTINF:-1 group-title="latino",TNT SERIES
+http://38.131.11.9:1080/play/a0dg
+#EXTINF:-1 group-title="latino",Nick Jr
+http://38.131.11.9:1080/play/a026
+#EXTINF:-1 group-title="latino",Zona Latina
+http://38.131.11.9:1080/play/a00x
+#EXTINF:-1 group-title="latino",Xtrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="latino",LANCELOT
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 group-title="latino",Cartoon Network
+http://38.131.11.9:1080/play/a012
+#EXTINF:-1 group-title="latino",Campus TV Honduras
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="latino",TV Capital
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="latino",Telesur TV
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="latino",MIX 24-7 TROPICAL
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/3.m3u8
+#EXTINF:-1 group-title="latino",ftv
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="latino",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="latino",TLR
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="latino",tlx
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+#EXTINF:-1 group-title="latino",MIX24-7
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/2.m3u8
+#EXTINF:-1 group-title="latino",canal26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 group-title="latino",TVM
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
+#EXTINF:-1 group-title="latino",Central TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 group-title="latino",Telenord
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:-1 group-title="latino",oncetv
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="latino",Telemax TV
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="latino",FOXMOVIES
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="latino",Galicia TV
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="latino",Uni teve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 group-title="latino",TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="latino",Visit-X tv
+http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+#EXTINF:-1 group-title="latino",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
+#EXTINF:-1 group-title="latino",zcast
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
+#EXTINF:-1 group-title="latino",7tv
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+#EXTINF:-1 group-title="latino",musica variada muy buena
+https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8
+#EXTINF:-1 group-title="latino",Horrorfy
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:-1 group-title="latino",solidariatv
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 group-title="latino",MCRT ESPAÑOL
+https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8
+#EXTINF:-1 group-title="latino",MCRT BANDA
+https://stmv.negotv.com/bandamx/bandamx/playlist.m3u8
+#EXTINF:-1 group-title="latino",MCRT REGUETON
+https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8
+#EXTINF:-1 group-title="latino",MCRT POP
+https://stmv.negotv.com/top2021/top2021/playlist.m3u8
+#EXTINF:-1 group-title="latino",latinzone
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="latino",SEÑAL URBANA
+https://stmvideo2.livecastv.com/urbana98/urbana98/playlist.m3u8
+#EXTINF:-1 group-title="latino",canal5
+https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
+#EXTINF:-1 group-title="latino",hispantv
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 group-title="latino",france 24
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 group-title="latino",ESNE
+https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8
