@@ -1,31 +1,15 @@
-#EXTINF:-1 group-title="solo eventos deportivos", evento1
-http://cdn.boxter.live:8081/DEP/BEIN_SPORTS_HD546546/chunks.m3u8?nimblesessionid=7099545
-#EXTINF:-1 group-title="solo eventos deportivos", evento 2
-http://cdn.boxter.live:8081/DEP/sky4/chunks.m3u8
-#EXTINF:-1 group-title="solo eventos deportivos ",evento 3
+#EXTM3U
+#EXTINF:-1 group-title="solo eventos deportivos",evento 3
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 group-title="solo eventos deportivos", evento 3
-http://cdn.boxter.live:8081/ssl/Espn_mx56465/chunks.m3u8?nimblesessionid=7240501
-#EXTINF:-1 group-title="solo eventos deportivos", evento 4
-http://cdn.boxter.live:8081/ssl/Espn_Deportes56415/chunks.m3u8?nimblesessionid=7244882
-#EXTINF:-1 group-title="solo eventos deportivos", evento 5
-http://209.126.104.33:25461/DEPORTESTVPLAY2021/JJYkboewrF/152880?token=QhZdBRZbFgIVBlICAwUHAQsFCANWB1ALAwQMWVIFVVtcBlYAAQMHCA8RThBBFxBUUl5uXlQTWQMBBQ0AAx5EFkpRRzsMVxYCFQJUCwtRVwgRHxNDWVwGEA4GAwsHB1ZSDgIASEdDXVwVCUAAA1BQBxEfE1JIRQZAWlZZZ1dXEApaURdeC0ZYVBsRDVxtBwdcUl1VFQoTUxAYFVxLQxBcDUxYWUhHUV1MRVIWVxBZQAQBAQIVHBMAXUFZQUpKEFxBfHcXSEdWTExSXRFbXQ1ACxFHQhUcEwpBa0VQS0dAAwJUUUdGXxEEGhsRD1NKPAFeXV1UVERYDFxHFQ8aAQdWQRUWWAsLWkBXRWwSW1ZBWBMBBQAGEkw=
-#EXTINF:-1 group-title="solo eventos deportivos", evento 6
-http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="solo eventos deportivos", evento 7
-http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
-#EXTINF:-1 group-title="solo eventos deportivos", evento 8
+#EXTINF:-1 group-title="solo eventos deportivos",evento 8
 http://cdn.boxter.live:8081/DEP/TUDN_USA3556565/chunks.m3u8
-#EXTINF:-1 group-title="solo eventos deportivos", evento 9
+#EXTINF:-1 group-title="solo eventos deportivos",evento 9
 http://cdn.boxter.live:8081/DEP/VTV_PLUS64564845/chunks.m3u8
-#EXTINF:-1 group-title="solo eventos deportivos", evento 10
+#EXTINF:-1 group-title="solo eventos deportivos",evento 2
+http://cdn.boxter.live:8081/DEP/sky4/chunks.m3u8
+#EXTINF:-1 group-title="solo eventos deportivos",evento 10
 http://tv.iptv5latino.cl:8080/live/netflixlyd/4ibYg2mcEy/610.m3u8
-#EXTINF:-1 group-title="solo eventos deportivos", evento 11
-http://23.237.88.106:25461/live/netflixlyd/4ibYg2mcEy/53991.m3u8?token=HhsMVUpYRAkSUlNZUwZVVQsMAFQMDQADAFdSAFAKVlMGD1IFAQhVUgcVShpBRxRWWFlqXFwXWFQBXQoHGBEQQwBLO11dElwRAwdTCAoGRB8bQFxYXRdYUR5GQ19QEV8SVw9QBggSShFVTxJdQF0HX2ZQUENRVgdDCApGWlgfR18LZgBRVFEIVxINRAgQH0RaSkQXD1ZADg0eRlFfQEEERAAbXhYMAF8AEhtEW11GCEdLTRcPGnAhQx5GVk5AVgtDDFYKFgMSCwBFD0QUEFoVbEtRRkFKUAMMVxYRDBYDRxxHVAVMZlMJXV5SBUxbXAhAGw4XBhoZQAxdClpCW0E6QAxdRg4bA14DCRUb
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="solo eventos deportivos",evento 6
+http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="solo eventos deportivos",evento 7
+http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8

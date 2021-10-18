@@ -1,4 +1,3 @@
-#EXTINF:-1 group-title="guatemala", TV USAC
+#EXTM3U
+#EXTINF:-1 group-title="guatemala",TV USAC
 https://5e50264bd6766.streamlock.net/tvusac/videotvusac/playlist.m3u8
-#EXTINF:-1 group-title="guatemala", TVQ
-https://dcunilive23-lh.akamaihd.net/i/dclive_1@303774/master.m3u8?hdnea=st=1634265290~exp=1634265410~acl=/i/dclive_1@303774*~hmac=f0436274faac2121018346911ec3a28b6f62b2835aee7e1e8331866ef6ad7cd4

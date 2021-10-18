@@ -1,400 +1,209 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.pnggroup-title"INTERNACIONAL", IP  24.5         
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title"INTERNACIONAL", CRONICA HD  24.4
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title"INTERNACIONAL", CANAL 26  24.2
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png" group-title"INTERNACIONAL", A24  36.3
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
-
-#EXTINF:-1 group-title"INTERNACIONAL", TODO NOTICIAS       
-https://www.youtube.com/watch?v=wHn1_QVoXGM
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/145px-TN_todo_noticias_logo.svg.png" group-title"INTERNACIONAL", * Todo Noticias
-http://edge1.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title"INTERNACIONAL", C5N  25.2
-https://www.youtube.com/watch?v=NQqCjfFDWSQ
-
-#EXTINF:-1 group-title"INTERNACIONAL", LN+  25.3
-https://www.youtube.com/watch?v=5ql5hNZQzKc
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title"INTERNACIONAL", FRANCE 24 ESPAÃ‘OL - 24.3
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title"INTERNACIONAL", TELESUR  25.4
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title"INTERNACIONAL", RT  25.5
-https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title"INTERNACIONAL", EURONEWS
-https://euronews-euronews-spanish-2.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title"INTERNACIONAL", DW ESPAÃ‘OL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÃ‘OL - 24.3
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="INTERNACIONAL", TELESUR  25.4
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="INTERNACIONAL", RT  25.5
-https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1200px-HispanTv_logo.svg.png" group-title="INTERNACIONAL", HISPAN TV
-https://live.presstv.ir/live/smil:live.smil/chunklist_w1019133970_b644100_slen.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="INTERNACIONAL",CNN Chile
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="INTERNACIONAL", EURONEWS
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="INTERNACIONAL",3/24
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="INTERNACIONAL", CGTN ESPAÃ‘OL
-http://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80324_TV_Peru_Noticias.png" group-title="INTERNACIONAL", TV PERU NOTICIAS
-https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="INTERNACIONAL", CUBAVISION
-http://190.122.96.187:8888/http/010
-
-#EXTINF:-1 tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title="INTERNACIONAL", VOA ESTADOS UNIDOS
-https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="INTERNACIONAL", CARACOL
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" group-title="INTERNACIONAL", EL PINGUINO TV CHILE
-http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jrfVQHwUBx4/Xzx0rORBjXI/AAAAAAAA4qg/NiiIK4hjt_8RUGtKV-xMvHgY1ttnwcNMQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="INTERNACIONAL", UCI PERU
-http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="INTERNACIONAL", BHTV
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL",Cable Netword Belleza Andina TV
-https://tv.siete.us/bellezaandina/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="INTERNACIONAL", MUNDO+ COLOMBIA
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG" group-title="INTERNACIONAL", ABC PARAGUAY
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/tv-florida-canal-4.png" group-title="INTERNACIONAL", TVF TV FLORIDA URUGUAY
-http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
-
-#EXTINF:-1 group-title="Costa Rica",TEN HD
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
-#EXTINF:-1 group-title="Costa Rica",88 stereo
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-" 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" group-title="INTERNACIONAL", ADN40
-https://v-sd.mybtv.net/event/484/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Estrella_Media_-_2020_logo.png" group-title="INTERNACIONAL", ESTRELLA NEWS MEXICO
-https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Jalisco-TV-2-en-vivo-Online-218x150.png" group-title="INTERNACIONAL", JALISCO TV MEXICO
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wLqvSBG3ypA/XbI136RmymI/AAAAAAAArqk/SfWDO2VbXmYneaUPCbHk_4Y5Fm9aY1sNACK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL", MARTI TV
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0240_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-byaRfvJfLqTsABgDZb6zXzK-owEfqnrOI7WdqTEANDFry7uFqmz4pfdui4jVw-opII&usqp=CAU" group-title="INTERNACIONAL", TICAVISIÃ“N COSTA RICA
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/27/c9/a6/27c9a690f48240790263160b279f2221.jpg" group-title="INTERNACIONAL", CANAL 25 REP DOMINICANA
-http://190.122.96.188:8888/http/004
-
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" group-title="INTERNACIONAL", VALLEVISION  REP DOMINICANA
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1202579558697967616/pHnuKCH7_400x400.jpg" group-title="INTERNACIONAL",Canal Dos
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" group-title="INTERNACIONAL",VALLEVISION  REP DOMINICANA
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg" group-title="INTERNACIONAL",Canal 8 COSTA RICA
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112080_TVGE_Internacional.png" group-title="INTERNACIONAL", TVGE INTERNACIONAL
-https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8Gc5fFs_4av_3It4hoaSP_CzT5gLkMRsm_xS6dN0DaGoxEsDeDNRagNODmODz3E7qRQ&usqp=CAU" group-title="INTERNACIONAL", EKIZ TV CHILE
-https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="INTERNACIONAL", BIO BIO TV CHILE
-https://unlimited1-us.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8    
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="INTERNACIONAL", BOLIVIA TV 
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="INTERNACIONAL", BOLIVIA TV 2
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="INTERNACIONAL", CANAL 10 CANCUN
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="INTERNACIONAL", TELEPACIFICO COLOMBIA
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="INTERNACIONAL", Canal Capital COLOMBIA
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-c-2584.jpg" group-title="INTERNACIONAL",Canal C Cali
-https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-atv-1694.jpg" group-title="INTERNACIONAL", ATV COLOMBIA
-https://movil.ejeserver.com/live/verteve.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo2.png" group-title="INTERNACIONAL", SUCESO TV PARAGUAY
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="INTERNACIONAL", CANAL HM REPUBLICA DOMINICANA
-https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/27/c9/a6/27c9a690f48240790263160b279f2221.jpg" group-title="INTERNACIONAL",CANAL 25 REP DOMINICANA
+http://190.122.96.188:8888/http/004
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="INTERNACIONAL",CUBAVISION
+http://190.122.96.187:8888/http/010
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" group-title="INTERNACIONAL",EL PINGUINO TV CHILE
+http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
+#EXTINF:-1,LN+  25.3
+https://www.youtube.com/watch?v=5ql5hNZQzKc
+#EXTINF:-1,TODO NOTICIAS
+https://www.youtube.com/watch?v=wHn1_QVoXGM
+#EXTINF:-1,C5N  25.2
+https://www.youtube.com/watch?v=NQqCjfFDWSQ
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jrfVQHwUBx4/Xzx0rORBjXI/AAAAAAAA4qg/NiiIK4hjt_8RUGtKV-xMvHgY1ttnwcNMQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="INTERNACIONAL",UCI PERU
+http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="INTERNACIONAL",BHTV
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="INTERNACIONAL",CARACOL
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_01/RPC_(2010).png.4630b569f7c275038611229447482050.png" group-title="INTERNACIONAL",Cabina RPC Radio PANAMA
 https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PrOYyU1.png" group-title="INTERNACIONAL", AnexiÃ³n TV GUANACASTE
-http://rtmp.info:8081/anexiontv/envivo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Panamericana_Televisi%C3%B3n.svg/512px-Panamericana_Televisi%C3%B3n.svg.png" group-title="INTERNACIONAL", PANAMERICANA TV
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL", AZTECA UNO
-https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="INTERNACIONAL", Canal Catorce mexico
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="INTERNACIONAL", Canal Once MEXICO
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="INTERNACIONAL", TEN Honduras
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/145px-TN_todo_noticias_logo.svg.png",* Todo Noticias
+http://edge1.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg" group-title="INTERNACIONAL",Canal 8 COSTA RICA
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png",CANAL 26  24.2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",TELESUR  25.4
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL",Cable Netword Belleza Andina TV
+https://tv.siete.us/bellezaandina/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="INTERNACIONAL",Canal Capital COLOMBIA
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Estrella_Media_-_2020_logo.png" group-title="INTERNACIONAL",ESTRELLA NEWS MEXICO
+https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="INTERNACIONAL",MUNDO+ COLOMBIA
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 group-title="Costa Rica",TEN HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="INTERNACIONAL",CANAL 10 CANCUN
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="INTERNACIONAL",TEN Honduras
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qRHwhND.png" group-title="INTERNACIONAL",Cholusat Sur 36 
-http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1202579558697967616/pHnuKCH7_400x400.jpg" group-title="INTERNACIONAL", Canal Dos 
-http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Logo_de_Se%C3%B1al_Colombia.png/1200px-Logo_de_Se%C3%B1al_Colombia.png" group-title="INTERNACIONAL", SEÃ‘AL COLOMBIA
+#EXTINF:-1 group-title="Costa Rica",88 stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-byaRfvJfLqTsABgDZb6zXzK-owEfqnrOI7WdqTEANDFry7uFqmz4pfdui4jVw-opII&usqp=CAU" group-title="INTERNACIONAL",TICAVISIÓN COSTA RICA
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",RT  25.5
+https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="INTERNACIONAL",BOLIVIA TV
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80324_TV_Peru_Noticias.png" group-title="INTERNACIONAL",TV PERU NOTICIAS
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/tv-florida-canal-4.png" group-title="INTERNACIONAL",TVF TV FLORIDA URUGUAY
+http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG" group-title="INTERNACIONAL",ABC PARAGUAY
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Logo_de_Se%C3%B1al_Colombia.png/1200px-Logo_de_Se%C3%B1al_Colombia.png" group-title="INTERNACIONAL",SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/antaresTvRadioOficial/picture?width=320&height=320" group-title="INTERNACIONAL", Antares TelevisiÃ³n PERU
-https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hufTLyq.png" group-title="INTERNACIONAL",Carivision R DOMINICANA
+http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CajamarcaTV/picture?width=320&height=320" group-title="INTERNACIONAL",Cajamarca TV PERU
 https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-REFH6RkuaQ0/X5wY1UPCWqI/AAAAAAAA63w/-tUyjCx_2PUJrqQuDXUxiRnf6HLXy-zMQCK8BGAsYHg/s0/2020-10-30.png" group-title="INTERNACIONAL",TELEPLAY MEXICO
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHRlBYbxO7ujdSwbq8099qY76DsKDGwV4iGGM4nHaMBv-NK2bTLXbRc5VRgS7z0ELYt8&usqp=CAU" group-title="INTERNACIONAL",TELEMAR MEXICO
-https://59d39900ebfb8.streamlock.net/8410/8410/.m3u8
-
+#EXTINF:-1 group-title="INTERNACIONAL 2",ANN JAPAN
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrOYyU1.png" group-title="INTERNACIONAL",Anexión TV GUANACASTE
+http://rtmp.info:8081/anexiontv/envivo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qRHwhND.png" group-title="INTERNACIONAL",Cholusat Sur 36
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="INTERNACIONAL",Canal Once MEXICO
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="INTERNACIONAL",TELEPACIFICO COLOMBIA
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jOJk895V3pzx3VwAYIMG1_h2-vQypKMXmjQ0Xcp3BI2UQ41IgAt1aaT5iIrG7ngGGUU&usqp=CAU" group-title="INTERNACIONAL",26 AGUAS CALIENTE
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",EURONEWS
+https://euronews-euronews-spanish-2.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsaXb6XIQV-gHVEQe06O_s94CB3OP8GgizyK0S2Bh6TUxhXUpwdCitRWGO6bTsyO5sEhI&usqp=CAU" group-title="INTERNACIONAL",15 TV SABINAS MEXICO
 https://hls.gvstream.live/telesistemas/15tv.stream/.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="INTERNACIONAL",MVS TV MEXICO
-https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.pnggroup-title",IP  24.5
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="INTERNACIONAL",EURONEWS
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1200px-HispanTv_logo.svg.png" group-title="INTERNACIONAL",HISPAN TV
+https://live.presstv.ir/live/smil:live.smil/chunklist_w1019133970_b644100_slen.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-atv-1694.jpg" group-title="INTERNACIONAL",ATV COLOMBIA
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="INTERNACIONAL",CANAL HM REPUBLICA DOMINICANA
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112080_TVGE_Internacional.png" group-title="INTERNACIONAL",TVGE INTERNACIONAL
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="INTERNACIONAL",Canal Catorce mexico
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Panamericana_Televisi%C3%B3n.svg/512px-Panamericana_Televisi%C3%B3n.svg.png" group-title="INTERNACIONAL",PANAMERICANA TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Jalisco-TV-2-en-vivo-Online-218x150.png" group-title="INTERNACIONAL",JALISCO TV MEXICO
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="INTERNACIONAL",BOLIVIA TV 2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="INTERNACIONAL",3/24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" group-title="INTERNACIONAL",ADN40
+https://v-sd.mybtv.net/event/484/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8Gc5fFs_4av_3It4hoaSP_CzT5gLkMRsm_xS6dN0DaGoxEsDeDNRagNODmODz3E7qRQ&usqp=CAU" group-title="INTERNACIONAL",EKIZ TV CHILE
+https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-c-2584.jpg" group-title="INTERNACIONAL",Canal C Cali
+https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-REFH6RkuaQ0/X5wY1UPCWqI/AAAAAAAA63w/-tUyjCx_2PUJrqQuDXUxiRnf6HLXy-zMQCK8BGAsYHg/s0/2020-10-30.png" group-title="INTERNACIONAL",TELEPLAY MEXICO
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/antaresTvRadioOficial/picture?width=320&height=320" group-title="INTERNACIONAL",Antares Televisión PERU
+https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.png?v=1?bypass-service-worker" group-title="INTERNACIONAL 2",SKY NEWS REINO UNIDO
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="INTERNACIONAL 2",RAI 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w994803816.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="INTERNACIONAL",CNN Chile
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="INTERNACIONAL 2",AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="INTERNACIONAL",CGTN ESPAÑOL
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="INTERNACIONAL 2",San Marino RTV
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/1200px-RTP.svg.png" group-title="INTERNACIONAL 2",RTP PORTUGAL
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="INTERNACIONAL 2",NEWSMAX
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c70b130-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4d1f561-e31a-46a0-aa0d-b9fd0b9bfe92&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Reuters_Logo.svg/512px-Reuters_Logo.svg.png" group-title="INTERNACIONAL 2",REUTERS
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL",Capital 21 MEXICO
 https://video.cdmx.gob.mx/livestream/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hufTLyq.png" group-title="INTERNACIONAL", Carivision R DOMINICANA
-http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1200px-Rai_News_24_-_Logo_2013.svg.png" group-title="INTERNACIONAL 2", RAI NEWS
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="INTERNACIONAL 2", RAI 3
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w994803816.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="INTERNACIONAL 2", San Marino RTV 
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc-TKCQe6pb7OpPC4tprynHyWiNuFJh7h7H8DIwDL2B-pfAHPURhXP90v61gQnufz0SKWbgJ6rdxTAxryYfqJl2TJpXOhHM8aWxw&usqp=CAU&ec=45702846" group-title="INTERNACIONAL 2", NTV 24 NEWS JAPON
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="INTERNACIONAL 2", NHK JAPON
-https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONAL 2", ANN JAPAN
-https://www.youtube.com/watch?v=coYw-eVU0Ks
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="INTERNACIONAL 2", KBS WORLD COREA DEL SUR
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ebs-1.jpg" group-title="INTERNACIONAL 2", EBS 1 COREA DEL SUR
-https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="INTERNACIONAL 2", SBS INTERNACIONAL COREA DEL SUR
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL 2", ARIRANG KOREA
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/1200px-RTP.svg.png" group-title="INTERNACIONAL 2", RTP PORTUGAL
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="INTERNACIONAL 2", CCTV NotÃ­cias
-https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
-
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/CNC_World#/media/File:CNC_World_logo.png" group-title="INTERNACIONAL 2", CNC CHINA
-https://source07.v.news.cn/live/CNC_CN/playlist.m3u8?wsSession=bed2e3a67ad6d4269809e919-160881726993209&wsIPSercert=b45b1734986e59cef74116f016f4b676&wsMonitor=0
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="INTERNACIONAL 2", TV5 Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL 2", TELESUR ENGLISH
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="INTERNACIONAL 2", ABC ESTADOS UNIDOS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Reuters_Logo.svg/512px-Reuters_Logo.svg.png" group-title="INTERNACIONAL 2", REUTERS
-https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.png?v=1?bypass-service-worker" group-title="INTERNACIONAL 2", SKY NEWS REINO UNIDO
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="INTERNACIONAL 2", AL JAZEERA
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="INTERNACIONAL 2", FOX NEWS
-https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="INTERNACIONAL 2", CNN
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="INTERNACIONAL 2",CNN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1200px-CBS_News.svg.png" group-title="INTERNACIONAL 2", CBS NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1200px-CBS_News.svg.png" group-title="INTERNACIONAL 2",CBS NEWS
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="INTERNACIONAL 2", Bloomberg TV
-https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="INTERNACIONAL 2", NBC NEWS NOW
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b291-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e4a249a-04a3-4a0f-b14f-6675b67c77c4&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" group-title="INTERNACIONAL 2", CBS NEWS NEW YORK
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c826471-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4b9a9bf2-5dc4-46b3-9790-0983793deacf&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="INTERNACIONAL 2", NEWSMAX
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c70b130-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4d1f561-e31a-46a0-aa0d-b9fd0b9bfe92&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reuters_TV_logo.png/799px-Reuters_TV_logo.png" group-title="INTERNACIONAL 2", REUTERS NOW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reuters_TV_logo.png/799px-Reuters_TV_logo.png" group-title="INTERNACIONAL 2",REUTERS NOW
 https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Yahoo_Finance_Logo_2019.svg/394px-Yahoo_Finance_Logo_2019.svg.png" group-title="INTERNACIONAL 2", YAHOO FINANCE
-https://yahoo-roku-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="INTERNACIONAL 2",BBC World News
-http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="INTERNACIONAL 2",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1200px-Rai_News_24_-_Logo_2013.svg.png" group-title="INTERNACIONAL 2",RAI NEWS
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title="INTERNACIONAL",VOA ESTADOS UNIDOS
+https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="INTERNACIONAL 2",CNBC Europe
 http://ott-cdn.ucom.am/s65/index.m3u8?fluxustv.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="INTERNACIONAL 2",BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="INTERNACIONAL 2",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="INTERNACIONAL 2",Euronews
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHRlBYbxO7ujdSwbq8099qY76DsKDGwV4iGGM4nHaMBv-NK2bTLXbRc5VRgS7z0ELYt8&usqp=CAU" group-title="INTERNACIONAL",TELEMAR MEXICO
+https://59d39900ebfb8.streamlock.net/8410/8410/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="INTERNACIONAL 2",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL 2",RECORD NEWS BRASIL
+https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="INTERNACIONAL",MVS TV MEXICO
+https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/feea098d37b40f151f8c8d64993edcff.png" group-title="INTERNACIONAL 2",TVC BRASIL
+https://srv1.zcast.com.br/tvc/tvc/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Yahoo_Finance_Logo_2019.svg/394px-Yahoo_Finance_Logo_2019.svg.png" group-title="INTERNACIONAL 2",YAHOO FINANCE
+https://yahoo-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="INTERNACIONAL 2",Bloomberg TV
+https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="INTERNACIONAL 2",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" group-title="INTERNACIONAL 2",TV CARIOCA BRASIL
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wLqvSBG3ypA/XbI136RmymI/AAAAAAAArqk/SfWDO2VbXmYneaUPCbHk_4Y5Fm9aY1sNACK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL",MARTI TV
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0240_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="INTERNACIONAL 2",SBT - TV Jornal BRASIL
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo2.png" group-title="INTERNACIONAL",SUCESO TV PARAGUAY
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" group-title="INTERNACIONAL 2",CBS NEWS NEW YORK
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c826471-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4b9a9bf2-5dc4-46b3-9790-0983793deacf&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png" group-title="INTERNACIONAL 2",TV COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL 2",ARIRANG KOREA
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL",FRANCE 24 ESPAÑOL - 24.3
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602",FRANCE 24 ESPAÑOL - 24.3
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="INTERNACIONAL 2",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONAL 2",RecordTV Manaus BRASIL
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="INTERNACIONAL 2",TV5 Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="INTERNACIONAL 2",CCTV Notícias
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/R%C3%9AV_Iceland.svg/474px-R%C3%9AV_Iceland.svg.png" group-title="INTERNACIONAL 2",Rúv Islandia
+https://ruvruverl-live-hls.secure.footprint.net/24beacf6e543ecd6f62c8dc98b1827650c5507f8-1/ruv/ruv2erl/index/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="INTERNACIONAL 2",KBS WORLD COREA DEL SUR
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="INTERNACIONAL 2",NBC NEWS NOW
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b291-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e4a249a-04a3-4a0f-b14f-6675b67c77c4&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="INTERNACIONAL 2",NHK JAPON
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="INTERNACIONAL 2",SBT - TV Serra Dourada BRASIL
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ebs-1.jpg" group-title="INTERNACIONAL 2",EBS 1 COREA DEL SUR
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/150px-Logo_BFM_TV_%282019%29.png" group-title="INTERNACIONAL 2",BFM TV
 https://bfmtvalive1-a.akamaihd.net/2a233d36eeeb4367b7b6e9fa069d9fe9/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="INTERNACIONAL 2",RT America
-https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/feea098d37b40f151f8c8d64993edcff.png" group-title="INTERNACIONAL 2", TVC BRASIL
-https://srv1.zcast.com.br/tvc/tvc/.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" group-title="INTERNACIONAL 2", TV CARIOCA BRASIL
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL 2", RECORD NEWS BRASIL 
-https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png" group-title="INTERNACIONAL 2", TV COM BRASIL
-https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="INTERNACIONAL 2", SBT - TV Jornal BRASIL
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="INTERNACIONAL 2", SBT - TV Serra Dourada BRASIL
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONAL 2", RecordTV Manaus BRASIL
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/R%C3%9AV_Iceland.svg/474px-R%C3%9AV_Iceland.svg.png" group-title="INTERNACIONAL 2", RÃºv Islandia
-https://ruvruverl-live-hls.secure.footprint.net/24beacf6e543ecd6f62c8dc98b1827650c5507f8-1/ruv/ruv2erl/index/stream1.m3u8
