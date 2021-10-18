@@ -13,7 +13,7 @@ import os
 #import pastebin
 from collections import deque
 #import myGit
-port = int(os.environ.get("PORT", 5000))	
+port = int(os.environ.get("PORT", 5000)) ||process.env.PORT	
 PORT_NUMBER = port
  
 
