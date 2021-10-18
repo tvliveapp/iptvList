@@ -39,7 +39,7 @@ def readCats(cats):
 def readList():
 	global listadecanales, todosChn
 	nowLive.updateList()
-        iptvhdFcn.getChannels()
+	iptvhdFcn.getChannels()
 	data=open('templates/info.m3u')
 	listadecanales=data.read()
 	data.close()
