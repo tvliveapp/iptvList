@@ -48,7 +48,7 @@ def getUrl(url):
 def getChannels():
     global channels
     canales=[]
-    leolist=open('templates/leoList.m3u','w')
+    leolist=open('templates/listas/leoList.m3u','w')
     leolist.write('#EXTM3U\n')
     for grupo in urlList:
         cUrl=urlList[grupo]['url']
@@ -75,14 +75,8 @@ def getChannels():
                 leolist.write(chUrl.replace('"','')+'\n')
             except:
                 print('error')
-    f=open('templates/nowlive.m3u','r',encoding = "ISO-8859-1")
-    leolist.write(f.read())
-    leolist.write("\n")
-    f.close()
-    f=open('templates/espana.m3u','r')
-    leolist.write(f.read())
-    f.close()
-    leolist.close()    
+    
+    leolist.close()
     channels['latino']=canales   
         #print(channels)
 
