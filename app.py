@@ -44,7 +44,7 @@ def readList():
 	listadecanales=data.read()
 	data.close()
 	for lista in os.listdir('templates/listas'):
-		data=open('templates/listas/'+lista,encoding="utf8")
+		data=open('templates/listas/'+lista,encoding="utf8",errors='ignore')
 		listadecanales=listadecanales+'\n'+data.read()
 		data.close()
 	#print (listadecanales)
