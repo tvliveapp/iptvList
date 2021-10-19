@@ -39,7 +39,7 @@ def readCats(cats):
 def readList():
 	global listadecanales, todosChn
 	#nowLive.updateList()
-	#iptvhdFcn.getChannels()
+	iptvhdFcn.getChannels()
 	data=open('templates/info.m3u')
 	listadecanales=data.read()
 	data.close()
@@ -89,7 +89,7 @@ def listaiptv():
 		pass
 	if time.time()-lasUpdate>18000:
 		#nowLive.updateList()
-		#iptvhdFcn.getChannels()
+		iptvhdFcn.getChannels()
 		lasUpdate=time.time()
 		readList()
 	return listadecanales
@@ -112,7 +112,7 @@ def listaiptvm3u():
 		pass
 	if time.time()-lasUpdate>18000:
 		#nowLive.updateList()
-		#iptvhdFcn.getChannels()
+		iptvhdFcn.getChannels()
 		lasUpdate=time.time()
 		readList()
 	if cate:
