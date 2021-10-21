@@ -17,13 +17,37 @@ urlList={'mexico':{'url':'http://apk.radiotormentamx.com/mexico.html','div':'imO
 baseUrl='http://apk.radiotormentamx.com/'
 channels={}
 url="https://raw.githubusercontent.com/tvliveapp/channels/master/aptv.json"
+tk='lld9yN7t6J'
 def updateChns():
-    global channels
-    resp = requests.get(url)
-    print(resp.status_code)
-    channels = json.loads(resp.text)
-    return resp.status_code
-updateChns()    
+    global tk
+    try:
+        finalUrl="http://iptvhd.club/apstream/vip/cablehd.php?id=1_#"
+        
+        #print(finalUrl)
+        r = requests.get(finalUrl,headers=headers)
+        a=r.content.decode('latin-1')
+        a=a.replace('==','!=',1)
+        a=a.split('Clappr.Player(')[1]
+        b=a.split('{')[1]
+        b=b.split('\'')[1]
+        newTk=b.split("/live/aptvall/")[1].split('/')[0]
+        print (newTk)
+        if newTk==tk:
+            pass
+        else:
+            f=open('templates/listas/leoList.m3u','r')
+            nLst=f.read()
+            f.close()
+            nLst=nLst.replace(tk,newTk)
+            tk=newTk
+            print(nLst)
+            f=open('templates/listas/leoList.m3u','w')
+            f.write(nLst)
+            f.close()
+            
+    except:
+        pass
+updateChns()     
 def getUrl(url):
     #print(url)
     resp = requests.get(url)
