@@ -87,6 +87,7 @@ def listaiptv():
 		print( ip_address = request.headers['X-Forwarded-For'])
 	except:
 		pass
+	readList()
 	if time.time()-lasUpdate>18000:
 		#nowLive.updateList()
 		iptvhdFcn.updateChns()
@@ -106,6 +107,7 @@ def listaiptvm3u():
 	cate=''.join(items)
 	cate=cate.split(',')
 	print(cate,flush=True)
+	readList()
 	try:
 		print( ip_address = request.headers['X-Forwarded-For'])
 	except:
