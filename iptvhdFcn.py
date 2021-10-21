@@ -121,4 +121,4 @@ def iptvhdFcn(id):
         return channels[id]['stream_link']
     
 #print(iptvhdFcn('aptv11'))
-getChannels()
+#getChannels()
