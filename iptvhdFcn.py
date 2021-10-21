@@ -31,7 +31,8 @@ def updateChns():
         b=a.split('{')[1]
         b=b.split('\'')[1]
         newTk=b.split("/live/aptvall/")[1].split('/')[0]
-        print (newTk)
+        
+        print (tk,newTk)
         if newTk==tk:
             pass
         else:
