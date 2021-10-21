@@ -2,7 +2,7 @@
 from flask import Flask, render_template, request
 #import nowLive
 import todosFcn
-#import iptvhdFcn
+import iptvhdFcn
 #import model
 import json
 import base64
