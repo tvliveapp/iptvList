@@ -17,3 +17,5 @@ https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w149100019.m3u8
 #EXTINF:-1 group-title="ecuador",prueba
 http://23.237.88.106:25461/live/netflixlyd/4ibYg2mcEy/53991.m3u8?token=HhsMVUpYRAkSD19aBVJWVQwBBARcAFNUUQYCUwMCAAJdD1cFCAQHVlIVShpBRxRWWFlqXFwXWFQBXQoHGBEQQwBLO11dElwRAwdTCAoGRB8bQFxYXRdYUR5GQ19QEV8SVwtWAQoSShFVTxJdQF0HX2ZQUENRVgdDCApGWlgfR18LZgBRVFEIVxINRAgQH0RaSkQXD1ZADg0eRlFfQEEERAAbXhYMAF8HEhtEW11GCEdLTRcPGnAhQx5GVk5AVgtDDFYKFgMSCwBFD0QUEFoVbEtRRkFKUAMMVxYRDBYDRxxHVAVMZlMJXV5SBUxbXAhAGw4XBhoZQAxdClpCW0E6QAxdRg4bA1IBABUb
+EXTINF:-1 group-title="ecuador",prueba 2
+https://akamai2-br.cdn.booyah.live/hls/1000008/95268731.m3u8?d=https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
