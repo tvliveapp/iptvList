@@ -97,7 +97,7 @@ def listaiptv():
 @app.route("/listaiptv.m3u")
 def listaiptvm3u():
 	global lasUpdate
-	cats = request.args.get('cats', default = '', type = str)
+	cats = request.args.get('cats', default = 'all', type = str)
 	sr=request.args.get('sr', default = 0, type = int)
 	r=int(sr/5)
 	cates=Convert(cats)
@@ -117,13 +117,14 @@ def listaiptvm3u():
 		iptvhdFcn.updateChns()
 		lasUpdate=time.time()
 		readList()
-	if cate:
-		print('categorias')
-		return readCats(cate)
-	else:
+	if cate[0]=='all':
 		print('todas')
 		readList()
 		return listadecanales
+	else:
+		print('categorias')
+		return readCats(cate)
+		
 		
 @app.route("/paste")
 def paste():
