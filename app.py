@@ -117,10 +117,8 @@ def listaiptvm3u():
 		iptvhdFcn.updateChns()
 		lasUpdate=time.time()
 		readList()
-	if cate:
-		return readCats(cate)
-	else:
-		return listadecanales
+	return readCats(cate)
+		
 @app.route("/paste")
 def paste():
     name = request.args.get('name', default = 'newList', type = str)
