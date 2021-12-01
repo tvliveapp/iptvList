@@ -106,7 +106,7 @@ def listaiptvm3u():
 	print(r,flush=True)
 	cate=''.join(items)
 	cate=cate.split(',')
-	print(cate,flush=True)
+	print('cate',cate,flush=True)
 	readList()
 	try:
 		print( ip_address = request.headers['X-Forwarded-For'])
