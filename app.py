@@ -126,7 +126,9 @@ def listaiptvm3u():
 	else:
 		print('categorias')
 		return readCats(cate)
-		
+@app.route("/leo")
+def leo():
+	return render_template("/listas/leoList.m3u")	
 		
 @app.route("/paste")
 def paste():
