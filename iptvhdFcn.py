@@ -23,7 +23,7 @@ def updateChns():
     #try:
     if 1:
         finalUrl="http://iptvhd.club/apstream/vip/cablehd.php?id=609_#"
-        
+        print('tk',tk)
         #print(finalUrl)
         r = requests.get(finalUrl,headers=headers)
         a=r.content.decode('latin-1')
