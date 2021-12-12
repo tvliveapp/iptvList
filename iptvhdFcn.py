@@ -33,7 +33,7 @@ def updateChns():
         b=b.split('\'')[1]
         newTk = re.search('token=(.*)&', b)
         #newTk=b.split("/live/aptvall/")[1].split('/')[0]
-        
+        newTk=newTk.group(1)
         print (tk,newTk)
         if newTk==tk:
             pass
