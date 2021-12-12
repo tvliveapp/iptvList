@@ -20,7 +20,8 @@ url="https://raw.githubusercontent.com/tvliveapp/channels/master/aptv.json"
 tk='lld9yN7t6J'
 def updateChns():
     global tk
-    try:
+    #try:
+    if 1:
         finalUrl="http://iptvhd.club/apstream/vip/cablehd.php?id=1_#"
         
         #print(finalUrl)
@@ -47,7 +48,7 @@ def updateChns():
             f.write(nLst)
             f.close()
             
-    except:
+    #except:
         pass
 updateChns()     
 def getUrl(url):
