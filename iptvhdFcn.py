@@ -31,6 +31,7 @@ def updateChns():
         a=a.split('Clappr.Player(')[1]
         b=a.split('{')[1]
         b=b.split('\'')[1]
+        print('new url',b)
         newTk = re.search('token=(.*)&', b)
         #newTk=b.split("/live/aptvall/")[1].split('/')[0]
         newTk=newTk.group(1)
