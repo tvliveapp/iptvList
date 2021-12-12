@@ -28,7 +28,7 @@ def updateChns():
         r = requests.get(finalUrl,headers=headers)
         a=r.content.decode('latin-1')
         a=a.replace('==','!=',1)
-        print(a)
+        #print(a)
         a=a.split('Clappr.Player(')[1]
         b=a.split('{')[1]
         b=b.split('\'')[1]
@@ -46,7 +46,7 @@ def updateChns():
             #nLst=nLst.replace(tk,newTk)
             nLst=re.sub('token=.*?&','token='+newTk+'&',nLst, flags=re.DOTALL)
             tk=newTk
-            print(nLst)
+            #print(nLst)
             f=open('templates/listas/leoList.m3u','w')
             f.write(nLst)
             f.close()
@@ -127,4 +127,4 @@ def iptvhdFcn(id):
         return channels[id]['stream_link']
     
 #print(iptvhdFcn('aptv11'))
-#getChannels()
+getChannels()
