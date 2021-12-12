@@ -39,7 +39,8 @@ def updateChns():
             f=open('templates/listas/leoList.m3u','r')
             nLst=f.read()
             f.close()
-            nLst=nLst.replace(tk,newTk)
+            #nLst=nLst.replace(tk,newTk)
+            nLst=re.sub('token=.*?&','token='+newTk+'&',nLst, flags=re.DOTALL)
             tk=newTk
             print(nLst)
             f=open('templates/listas/leoList.m3u','w')
