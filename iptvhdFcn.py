@@ -86,7 +86,7 @@ def getChannels():
 
         resp = requests.get(cUrl)
         
-        print(resp.text)
+        #print(resp.text)
         soup = BeautifulSoup(resp.text)
     
         #print(soup.find("div", {"id": "imObjectGallery_178_01"}).find_all('a'))
