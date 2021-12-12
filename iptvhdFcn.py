@@ -37,7 +37,7 @@ def updateChns():
         #newTk=b.split("/live/aptvall/")[1].split('/')[0]
         newTk=newTk.group(1)
         print (tk,newTk)
-        if newTk==tk:
+        if 0:#newTk==tk:
             pass
         else:
             f=open('templates/listas/leoList.m3u','r')
