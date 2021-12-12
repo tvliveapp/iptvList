@@ -28,6 +28,7 @@ def updateChns():
         r = requests.get(finalUrl,headers=headers)
         a=r.content.decode('latin-1')
         a=a.replace('==','!=',1)
+        print(a)
         a=a.split('Clappr.Player(')[1]
         b=a.split('{')[1]
         b=b.split('\'')[1]
