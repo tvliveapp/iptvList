@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup   
 import json
 from requests.structures import CaseInsensitiveDict
-
+import re
 headers = CaseInsensitiveDict()
 headers["Referer"] = "http://apk.radiotormentamx.com/"
 '''
