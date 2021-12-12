@@ -39,7 +39,7 @@ def readCats(cats):
 def readList():
 	global listadecanales, todosChn
 	#nowLive.updateList()
-	iptvhdFcn.updateChns()
+	#iptvhdFcn.updateChns()
 	data=open('templates/info.m3u')
 	listadecanales=data.read()
 	data.close()
@@ -90,8 +90,9 @@ def listaiptv():
 	readList()
 	if time.time()-lasUpdate>18000:
 		#nowLive.updateList()
-		iptvhdFcn.updateChns()
 		lasUpdate=time.time()
+		iptvhdFcn.getChannels()
+		
 		readList()
 	return listadecanales
 @app.route("/listaiptv.m3u")
@@ -113,8 +114,9 @@ def listaiptvm3u():
 	except:
 		pass
 	if time.time()-lasUpdate>18000:
+		lasUpdate=time.time()
 		#nowLive.updateList()
-		iptvhdFcn.updateChns()
+		iptvhdFcn.getChannels()
 		lasUpdate=time.time()
 		readList()
 	if cate[0]=='all':
