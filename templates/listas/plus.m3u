@@ -1,0 +1,474 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="VTV HD" tvg-logo="https://p3iptv.peruapps.online/images/40281_vtv.png" group-title="URUGUAY",VTV HD
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA RED" tvg-logo="https://p3iptv.peruapps.online/images/17871_lared-uruguay.png" group-title="URUGUAY",LA RED
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10" tvg-logo="https://p3iptv.peruapps.online/images/91776_canal10-uruguay.png" group-title="URUGUAY",CANAL 10
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEDOCE" tvg-logo="https://p3iptv.peruapps.online/images/48805_teledoce-uruguay.png" group-title="URUGUAY",TELEDOCE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/4.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4" tvg-logo="https://p3iptv.peruapps.online/images/53465_canal4-uruguay.png" group-title="URUGUAY",CANAL 4
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL A+V" tvg-logo="https://p3iptv.peruapps.online/images/21596_a+vuruguay.png" group-title="URUGUAY",CANAL A+V
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="WILLAX" tvg-logo="https://p3iptv.peruapps.online/images/15052_26530_willaxtv-logo.png" group-title="PERU",WILLAX
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/7.ts
+#EXTINF:-1 tvg-id="" tvg-name="MONTERRICO TV" tvg-logo="https://p3iptv.peruapps.online/images/17602_monterricotv.png" group-title="PERU",MONTERRICO TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA TV" tvg-logo="https://p3iptv.peruapps.online/images/21385_panamericana-logo.png" group-title="PERU",PANAMERICANA TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/9.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PERU" tvg-logo="https://p3iptv.peruapps.online/images/56963_tvperu-logo.png" group-title="PERU",TV PERU
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://p3iptv.peruapps.online/images/14289_atv-logo.png" group-title="PERU",ATV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV+" tvg-logo="https://p3iptv.peruapps.online/images/11803_atv+-logo.png" group-title="PERU",ATV+
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANTARES TV" tvg-logo="https://p3iptv.peruapps.online/images/18295_antarestv-logo.png" group-title="PERU",ANTARES TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/13.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="https://p3iptv.peruapps.online/images/31105_toplatino-peru.png" group-title="PERU",TOP LATINO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/14.ts
+#EXTINF:-1 tvg-id="" tvg-name="OVACION TV" tvg-logo="https://p3iptv.peruapps.online/images/31510_ovacion.png" group-title="PERU",OVACION TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/15.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONGRESO TV" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="PERU",CONGRESO TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL M" tvg-logo="https://p3iptv.peruapps.online/images/18970_canalm-uruguay.png" group-title="URUGUAY",CANAL M
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV+" tvg-logo="http://p3iptv.peruapps.online/images/34226_vtv+.png" group-title="URUGUAY",VTV+
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/19.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://p3iptv.peruapps.online/images/41983_goltv.png" group-title="ECUADOR",GOL TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/20.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS ECU" tvg-logo="https://p3iptv.peruapps.online/images/19366_directvsports-logo.png" group-title="ECUADOR",DIRECTV SPORTS ECU
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="LATINA" tvg-logo="https://p3iptv.peruapps.online/images/6045_latinatv-logo.png" group-title="PERU",LATINA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/22.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLPERU" tvg-logo="https://p3iptv.peruapps.online/images/38425_golperu-logo.png" group-title="PERU",GOLPERU
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://p3iptv.peruapps.online/images/27537_americatv-logo.png" group-title="PERU",AMERICA TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/24.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://p3iptv.peruapps.online/images/12952_movistardeportes.png" group-title="PERU",MOVISTAR DEPORTES
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL TV" tvg-logo="https://p3iptv.peruapps.online/images/31087_capitaltv-logo.png" group-title="PERU",CAPITAL TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://p3iptv.peruapps.online/images/85182_canaln-logo.png" group-title="PERU",CANAL N
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA TV" tvg-logo="https://p3iptv.peruapps.online/images/35558_exitosalogo.png" group-title="PERU",EXITOSA TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS" tvg-logo="https://p3iptv.peruapps.online/images/72993_mpluspe.png" group-title="PERU",MOVISTAR PLUS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL IPE" tvg-logo="https://p3iptv.peruapps.online/images/15752_39136_ipetv.png" group-title="PERU",CANAL IPE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/30.ts
+#EXTINF:-1 tvg-id="" tvg-name="RPP TV" tvg-logo="https://p3iptv.peruapps.online/images/38672_rpp-logo.png" group-title="PERU",RPP TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+ PER" tvg-logo="https://p3iptv.peruapps.online/images/41656_directvplus-logo.png" group-title="PERU",DIRECTV SPORTS+ PER
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 PER" tvg-logo="https://p3iptv.peruapps.online/images/39358_directvsports2-logo.png" group-title="PERU",DIRECTV SPORTS 2 PER
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA TELE PER" tvg-logo="https://p3iptv.peruapps.online/images/74676_latele-paraguay.png" group-title="PERU",LA TELE PER
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA TV" tvg-logo="https://p3iptv.peruapps.online/images/2781_boliviatv.png" group-title="BOLIVIA",BOLIVIA TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION" tvg-logo="https://p3iptv.peruapps.online/images/58788_bolivision.png" group-title="BOLIVIA",BOLIVISION
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/38.ts
+#EXTINF:-1 tvg-id="" tvg-name="RED UNO" tvg-logo="http://p3iptv.peruapps.online/images/16157_reduno-bolivia.png" group-title="BOLIVIA",RED UNO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP BOL" tvg-logo="https://p3iptv.peruapps.online/images/15551_rtp-bolivia.png" group-title="BOLIVIA",RTP BOL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS BOL" tvg-logo="https://p3iptv.peruapps.online/images/13609_tigosport.png" group-title="BOLIVIA",TIGO SPORTS BOL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 2 BOL" tvg-logo="https://p3iptv.peruapps.online/images/13609_tigosport.png" group-title="BOLIVIA",TIGO SPORTS 2 BOL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/42.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 3 BOL" tvg-logo="https://p3iptv.peruapps.online/images/13609_tigosport.png" group-title="BOLIVIA",TIGO SPORTS 3 BOL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/43.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNITEL" tvg-logo="https://p3iptv.peruapps.online/images/49408_unitel.png" group-title="BOLIVIA",UNITEL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/44.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CIUDAD" tvg-logo="https://p3iptv.peruapps.online/images/17429_TVCiudad-uruguay.png" group-title="URUGUAY",TV CIUDAD
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 2 SANCARLOS" tvg-logo="http://p3iptv.peruapps.online/images/820_canal 2-uruguay.png" group-title="URUGUAY",CANAL 2 SANCARLOS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANTINFLAS" tvg-logo="https://p3iptv.peruapps.online/images/81646_45437_cantinflasshow.png" group-title="24/7",CANTINFLAS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="https://p3iptv.peruapps.online/images/11122_dragonballsuper.png" group-title="24/7",DRAGON BALL SUPER
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOS PICAPIEDRA" tvg-logo="https://p3iptv.peruapps.online/images/14811_los_picapiedras.png" group-title="24/7",LOS PICAPIEDRA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="https://p3iptv.peruapps.online/images/45362_peppa_pig.png" group-title="24/7",PEPPA PIG
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="POCOYO" tvg-logo="https://p3iptv.peruapps.online/images/15075_pocoyo.png" group-title="24/7",POCOYO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL GT" tvg-logo="https://p3iptv.peruapps.online/images/73702_dragonballgt.png" group-title="24/7",DRAGON BALL GT
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://p3iptv.peruapps.online/images/25447_a&e.png" group-title="ENTRETENIMIENTO",A&E
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://p3iptv.peruapps.online/images/42751_axn.png" group-title="ENTRETENIMIENTO",AXN
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="http://p3iptv.peruapps.online/images/56937_film&arts.png" group-title="ENTRETENIMIENTO",FILM & ARTS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE BRASIL" tvg-logo="https://p3iptv.peruapps.online/images/32042_foxlife.png" group-title="BRASIL",STAR LIFE BRASIL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://p3iptv.peruapps.online/images/20568_lifetime.png" group-title="ENTRETENIMIENTO",LIFETIME
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV" tvg-logo="https://p3iptv.peruapps.online/images/16778_TruTV.png" group-title="ENTRETENIMIENTO",TRUTV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/59.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR ACTION" tvg-logo="http://p3iptv.peruapps.online/images/15358_foxaction-logo.png" group-title="ENTRETENIMIENTO",STAR ACTION
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="http://p3iptv.peruapps.online/images/20162_foxchannel.png" group-title="ENTRETENIMIENTO",STAR CHANNEL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA" tvg-logo="http://p3iptv.peruapps.online/images/90205_foxcinema-logo.png" group-title="ENTRETENIMIENTO",STAR CINEMA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CLASSICS" tvg-logo="https://p3iptv.peruapps.online/images/15982_foxclassics-logo.png" group-title="ENTRETENIMIENTO",STAR CLASSICS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/63.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY" tvg-logo="http://p3iptv.peruapps.online/images/72404_foxcomedy-logo.png" group-title="ENTRETENIMIENTO",STAR COMEDY
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/64.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26" tvg-logo="https://argentina.mom-rsf.org/typo3temp/_processed_/6/e/csm_16018-1639_import_1aa4766f2d.png" group-title="ARGENTINA",CANAL 26
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="https://p3iptv.peruapps.online/images/45219_la1.png" group-title="ESPAÑA",LA 1
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/66.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV" tvg-logo="https://p3iptv.peruapps.online/images/12913_torostv.png" group-title="ESPAÑA",TOROS TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/67.ts
+#EXTINF:-1 tvg-id="" tvg-name="La 2" tvg-logo="https://p3iptv.peruapps.online/images/80779_la2.png" group-title="ESPAÑA",La 2
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/68.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE" tvg-logo="https://brandemia.org/sites/default/files/inline/images/trece_logo_despues.jpg" group-title="ESPAÑA",EL TRECE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/69.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADN40" tvg-logo="https://p3iptv.peruapps.online/images/97512_adn40-mexico.png" group-title="MÉXICO",ADN40
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/70.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEÑAL COLOMBIA" tvg-logo="https://p3iptv.peruapps.online/images/32464_señalcolombia.png" group-title="COLOMBIA",SEÑAL COLOMBIA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/71.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://p3iptv.peruapps.online/images/2182_telepacifico.png" group-title="COLOMBIA",TELEPACIFICO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/72.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="VENEZUELA",TELESUR
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/73.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECAFE" tvg-logo="https://p3iptv.peruapps.online/images/22192_telecafe.png" group-title="COLOMBIA",TELECAFE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/74.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://p3iptv.peruapps.online/images/13638_caracoltv.png" group-title="COLOMBIA",CARACOL TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/75.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="https://p3iptv.peruapps.online/images/15840_rcnnovelas.png" group-title="COLOMBIA",RCN NOVELAS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/76.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://p3iptv.peruapps.online/images/34993_clarosports.png" group-title="DEPORTES",CLARO SPORTS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/77.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://p3iptv.peruapps.online/images/34283_amc.png" group-title="ENTRETENIMIENTO",AMC
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/78.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://p3iptv.peruapps.online/images/84133_animalplanet.png" group-title="CULTURAL",ANIMAL PLANET
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/79.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://p3iptv.peruapps.online/images/46427_discoveryturbo-logo.png" group-title="CULTURAL",DISCOVERY TURBO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/80.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://p3iptv.peruapps.online/images/65664_cartoonnetwork-logo.png" group-title="INFANTILES",CARTOON NETWORK
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAIMENT" tvg-logo="https://p3iptv.peruapps.online/images/41607_entertainmentchannel.png" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/82.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MTV-Logo.svg" group-title="MUSICA",MTV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/83.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="https://p3iptv.peruapps.online/images/34316_natgeo-logo.png" group-title="CULTURAL",NATGEO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/84.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="https://p3iptv.peruapps.online/images/28471_natgeokids-logo.png" group-title="INFANTILES",NATGEO KIDS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/85.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX" tvg-logo="https://p3iptv.peruapps.online/images/61742_telemaxargentina.png" group-title="ARGENTINA",TELEMAX
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/86.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW LATINO" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="CULTURAL",DW LATINO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/87.ts
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NOTICIAS",FRANCE 24
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/88.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/100px-HispanTv_logo.svg.png" group-title="NOTICIAS",HISPAN TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://p3iptv.peruapps.online/images/23017_netTV-argentina.png" group-title="ARGENTINA",NET TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/90.ts
+#EXTINF:-1 tvg-id="" tvg-name="paka paka" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pakapaka_m.png" group-title="INFANTILES",paka paka
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/91.ts
+#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="NOTICIAS",RT
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/92.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGANOTICIAS" tvg-logo="https://p3iptv.peruapps.online/images/40729_megaplus-chile.png" group-title="CHILE",MEGANOTICIAS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/93.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA 7.2" tvg-logo="https://p3iptv.peruapps.online/images/44028_boliviatv-deportes.png" group-title="BOLIVIA",BOLIVIA 7.2
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/94.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL TRECE" tvg-logo="https://p3iptv.peruapps.online/images/82321_canaltreceparaguay.png" group-title="PARAGUAY",CANAL TRECE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/95.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNICANAL" tvg-logo="https://p3iptv.peruapps.online/images/44847_Unicanal-paraguay.png" group-title="PARAGUAY",UNICANAL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/96.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA" tvg-logo="https://p3iptv.peruapps.online/images/109_tvpublica-argentina.png" group-title="ARGENTINA",TV PUBLICA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/97.ts
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://p3iptv.peruapps.online/images/46137_c5n-argentina.png" group-title="ARGENTINA",C5N
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/98.ts
+#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="http://p3iptv.peruapps.online/images/62046_LN+Argentina.png" group-title="ARGENTINA",LN+
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/99.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE AR" tvg-logo="https://p3iptv.peruapps.online/images/61312_cinear-argentina.png" group-title="ARGENTINA",CINE AR
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/100.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS BRASIL" tvg-logo="https://p3iptv.peruapps.online/images/29208_tntsports-chile.png" group-title="BRASIL",TNT SPORTS BRASIL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/101.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION" tvg-logo="https://p3iptv.peruapps.online/images/66821_telecine-brasil.png" group-title="BRASIL",TELECINE ACTION
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="https://p3iptv.peruapps.online/images/91326_dragonballz.png" group-title="24/7",DRAGON BALL Z
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/103.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS" tvg-logo="http://p3iptv.peruapps.online/images/7360_lossimpson.jpg" group-title="24/7",LOS SIMPSONS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://p3iptv.peruapps.online/images/25260_sonychannel.png" group-title="ENTRETENIMIENTO",SONY
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/105.ts
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://p3iptv.peruapps.online/images/43379_syfy.png" group-title="ENTRETENIMIENTO",SYFY
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/106.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="http://p3iptv.peruapps.online/images/69671_futv-costarica.png" group-title="COSTA RICA",FUTV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/107.ts
+#EXTINF:-1 tvg-id="" tvg-name="TD+" tvg-logo="http://p3iptv.peruapps.online/images/83712_TD+1-costarica.png" group-title="COSTA RICA",TD+
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/108.ts
+#EXTINF:-1 tvg-id="" tvg-name="TD+2" tvg-logo="http://p3iptv.peruapps.online/images/35775_TD+1-costarica.png" group-title="COSTA RICA",TD+2
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/109.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://p3iptv.peruapps.online/images/66800_discoveryscience.png" group-title="CULTURAL",DISCOVERY SCIENCE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/110.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://p3iptv.peruapps.online/images/13235_disneyxd-logo.png" group-title="INFANTILES",DISNEY XD
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="http://p3iptv.peruapps.online/images/49780_cinecanal.png" group-title="ENTRETENIMIENTO",CINECANAL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://p3iptv.peruapps.online/images/50171_babytv.png" group-title="INFANTILES",BABY TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO" tvg-logo="http://p3iptv.peruapps.online/images/57244_azmundo.png" group-title="MÉXICO",AZ MUNDO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/114.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="http://p3iptv.peruapps.online/images/31331_antena3.png" group-title="ESPAÑA",ANTENA 3
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="REPRETREL CANAL 4" tvg-logo="http://p3iptv.peruapps.online/images/51599_canal4-costarica.png" group-title="COSTA RICA",REPRETREL CANAL 4
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="ESPAÑA",TVE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/ZooMoo_logo.svg" group-title="INFANTILES",ZOOMOO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/118.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA" tvg-logo="http://p3iptv.peruapps.online/images/49513_azcinema.png" group-title="MÉXICO",AZ CINEMA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/119.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ CLIC" tvg-logo="http://p3iptv.peruapps.online/images/81695_azclic.png" group-title="MÉXICO",AZ CLIC
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ CORAZON" tvg-logo="http://p3iptv.peruapps.online/images/46436_az-corazon.png" group-title="MÉXICO",AZ CORAZON
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="http://p3iptv.peruapps.online/images/55464_azuno.png" group-title="MÉXICO",AZTECA UNO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS N" tvg-logo="http://p3iptv.peruapps.online/images/38914_beinsportñ.png" group-title="DEPORTES",BEIN SPORTS N
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/123.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR FUN" tvg-logo="http://p3iptv.peruapps.online/images/44780_foxfamily-logo.png" group-title="ENTRETENIMIENTO",STAR FUN
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/124.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS" tvg-logo="http://p3iptv.peruapps.online/images/21999_foxmovies-logo.png" group-title="ENTRETENIMIENTO",STAR HITS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="DINOSAURIOS" tvg-logo="http://p3iptv.peruapps.online/images/19016_dinosaurioslargo.png" group-title="24/7",DINOSAURIOS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/127.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINKY Y CEREBRO" tvg-logo="http://p3iptv.peruapps.online/images/78024_pinky_cerebro.png" group-title="24/7",PINKY Y CEREBRO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/129.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUPERCAMPEONES" tvg-logo="http://p3iptv.peruapps.online/images/21264_supercampeones.png" group-title="24/7",SUPERCAMPEONES
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SERIES" tvg-logo="http://p3iptv.peruapps.online/images/54155_foxseries-logo.png" group-title="ENTRETENIMIENTO",STAR SERIES
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/131.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://p3iptv.peruapps.online/images/40856_hbo-logo.png" group-title="ENTRETENIMIENTO",HBO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/132.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="http://p3iptv.peruapps.online/images/1077_hbo2-logo.png" group-title="ENTRETENIMIENTO",HBO2
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/133.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="http://p3iptv.peruapps.online/images/20808_hbopop-logo.png" group-title="ENTRETENIMIENTO",HBO POP
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/134.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="http://p3iptv.peruapps.online/images/65339_hbosignature-logo.png" group-title="ENTRETENIMIENTO",HBO SIGNATURE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/135.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="http://p3iptv.peruapps.online/images/24849_hbofamily-logo.png" group-title="ENTRETENIMIENTO",HBO FAMILY
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/136.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS ARGENTINA" tvg-logo="http://p3iptv.peruapps.online/images/61129_tntsports.png" group-title="DEPORTES",TNT SPORTS ARGENTINA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://p3iptv.peruapps.online/images/284_cinemax.png" group-title="ENTRETENIMIENTO",CINEMAX
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/138.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://p3iptv.peruapps.online/images/63225_spacechannel.png" group-title="ENTRETENIMIENTO",SPACE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="http://p3iptv.peruapps.online/images/10551_cinelatino.png" group-title="ENTRETENIMIENTO",CINE LATINO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/140.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://p3iptv.peruapps.online/images/58936_universaltv.png" group-title="ENTRETENIMIENTO",UNIVERSAL TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/141.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO COSTARICA" tvg-logo="http://p3iptv.peruapps.online/images/19410_tigosport.png" group-title="DEPORTES",TIGO COSTARICA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/142.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE" tvg-logo="http://p3iptv.peruapps.online/images/51818_cnn-chile.png" group-title="CHILE",CNN CHILE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/143.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATB" tvg-logo="http://p3iptv.peruapps.online/images/58029_atb-bolivia.png" group-title="BOLIVIA",ATB
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/144.ts
+#EXTINF:-1 tvg-id="" tvg-name="REC ONLINE" tvg-logo="http://p3iptv.peruapps.online/images/52217_reconline.png" group-title="BOLIVIA",REC ONLINE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/145.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="http://p3iptv.peruapps.online/images/42032_distritocomedia.png" group-title="MÉXICO",DISTRITO COMEDIA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/146.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS" tvg-logo="http://p3iptv.peruapps.online/images/48559_Tlnovelas.png" group-title="TELENOVELAS",TLNOVELAS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/147.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADRENALINA SPORTS" tvg-logo="http://p3iptv.peruapps.online/images/11126_adrenalina-mexico.png" group-title="MÉXICO",ADRENALINA SPORTS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/148.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="http://p3iptv.peruapps.online/images/69472_lasestrellas-mexico.png" group-title="MÉXICO",LAS ESTRELLAS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/149.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="http://p3iptv.peruapps.online/images/5721_canal5mex.png" group-title="MÉXICO",CANAL 5
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="http://p3iptv.peruapps.online/images/40389_tudn.png" group-title="MÉXICO",TUDN
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://p3iptv.peruapps.online/images/67054_tbs.png" group-title="ENTRETENIMIENTO",TBS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://p3iptv.peruapps.online/images/47894_tcm.png" group-title="ENTRETENIMIENTO",TCM
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="http://p3iptv.peruapps.online/images/54720_hboplus-logo.png" group-title="ENTRETENIMIENTO",HBO PLUS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/154.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="http://p3iptv.peruapps.online/images/2186_hbomundi-logo.png" group-title="ENTRETENIMIENTO",HBO MUNDI
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="http://p3iptv.peruapps.online/images/11538_hboxtreme-logo.png" group-title="ENTRETENIMIENTO",HBO XTREME
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/156.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="http://p3iptv.peruapps.online/images/67258_goldenpremier.png" group-title="ENTRETENIMIENTO",GOLDEN PREMIER
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/157.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="http://p3iptv.peruapps.online/images/61477_goldenedge.png" group-title="ENTRETENIMIENTO",GOLDEN EDGE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/158.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="http://p3iptv.peruapps.online/images/47066_goldenplus.png" group-title="ENTRETENIMIENTO",GOLDEN PLUS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/159.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="http://p3iptv.peruapps.online/images/75562_golden.png" group-title="ENTRETENIMIENTO",GOLDEN
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/160.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://p3iptv.peruapps.online/images/2526_discoverykids-logo.png" group-title="INFANTILES",DISCOVERY KIDS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/161.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="http://p3iptv.peruapps.online/images/12569_discoveryworld-logo.png" group-title="CULTURAL",DISCOVERY WORLD
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/162.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://p3iptv.peruapps.online/images/25077_disneychannel-logo.png" group-title="INFANTILES",DISNEY CHANNEL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/163.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://p3iptv.peruapps.online/images/34858_disneyjr-logo.png" group-title="INFANTILES",DISNEY JR
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/164.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://p3iptv.peruapps.online/images/21026_espn-logo.png" group-title="DEPORTES",ESPN 3
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/165.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://p3iptv.peruapps.online/images/23136_espn2.png" group-title="DEPORTES",ESPN 2
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/166.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://p3iptv.peruapps.online/images/25124_espn-logo.png" group-title="DEPORTES",ESPN
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/167.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://p3iptv.peruapps.online/images/4357_espnextra.png" group-title="DEPORTES",ESPN EXTRA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/168.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://p3iptv.peruapps.online/images/46632_fx.png" group-title="ENTRETENIMIENTO",FX
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/169.ts
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="http://p3iptv.peruapps.online/images/94249_fxm.png" group-title="ENTRETENIMIENTO",FXM
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/170.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO ESPAÑA" tvg-logo="http://p3iptv.peruapps.online/images/40856_hbo-logo.png" group-title="ESPAÑA",HBO ESPAÑA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/171.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="http://p3iptv.peruapps.online/images/1047_history-logo.png" group-title="CULTURAL",HISTORY CHANNEL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/172.ts
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGACION DISCOVERY" tvg-logo="http://p3iptv.peruapps.online/images/75791_investigaciondiscovery-logo.png" group-title="CULTURAL",INVESTIGACION DISCOVERY
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/173.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK" tvg-logo="http://p3iptv.peruapps.online/images/66718_paramount.png" group-title="ENTRETENIMIENTO",PARAMOUNT NETWORK
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/174.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT " tvg-logo="http://p3iptv.peruapps.online/images/26828_tnt.png" group-title="ENTRETENIMIENTO",TNT 
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/175.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://p3iptv.peruapps.online/images/25981_warner.png" group-title="ENTRETENIMIENTO",WARNER CHANNEL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/176.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS CHILE" tvg-logo="http://p3iptv.peruapps.online/images/19589_tntsports-chile.png" group-title="CHILE",TNT SPORTS CHILE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/177.ts
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://p3iptv.peruapps.online/images/31780_studio-universal.png" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/178.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE" tvg-logo="https://p3iptv.peruapps.online/images/32042_foxlife.png" group-title="ENTRETENIMIENTO",STAR LIFE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/179.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="http://p3iptv.peruapps.online/images/18622_history2-logo.png" group-title="CULTURAL",HISTORY 2
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/180.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="http://p3iptv.peruapps.online/images/1093_foxsport3-logo.png" group-title="DEPORTES",FOX SPORTS 3
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/181.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://p3iptv.peruapps.online/images/26707_NBA-Logo.png" group-title="DEPORTES",NBA TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/182.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="http://p3iptv.peruapps.online/images/23775_nick-logo.png" group-title="INFANTILES",NICKELODEON
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/183.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://p3iptv.peruapps.online/images/11115_nickelodeonjr-logo.png" group-title="INFANTILES",NICK JR
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/184.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="http://p3iptv.peruapps.online/images/21763_natgeowild-logo.png" group-title="CULTURAL",NATGEO WILD
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/185.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="http://p3iptv.peruapps.online/images/18511_rcncolor.png" group-title="COLOMBIA",RCN
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/186.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://p3iptv.peruapps.online/images/20818_comedycentral.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/187.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="http://p3iptv.peruapps.online/images/28689_citytv.png" group-title="COLOMBIA",CITY TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/188.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://p3iptv.peruapps.online/images/16043_foxsport-logo.png" group-title="DEPORTES",FOX SPORTS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/189.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO" tvg-logo="http://p3iptv.peruapps.online/images/72842_canal1co.png" group-title="COLOMBIA",CANAL UNO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/190.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL INTERNACIONAL" tvg-logo="http://p3iptv.peruapps.online/images/33649_caracolinter.png" group-title="COLOMBIA",CARACOL INTERNACIONAL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/191.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="http://p3iptv.peruapps.online/images/10679_dpelicula-mexico.png" group-title="ENTRETENIMIENTO",DE PELICULA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA" tvg-logo="http://p3iptv.peruapps.online/images/48656_ecuavisa.png" group-title="ECUADOR",ECUAVISA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/193.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="http://p3iptv.peruapps.online/images/69230_multipremier.png" group-title="ENTRETENIMIENTO",MULTIPREMIER
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/194.ts
+#EXTINF:-1 tvg-id="" tvg-name="OROMAR" tvg-logo="http://p3iptv.peruapps.online/images/2704_oromarecu.png" group-title="ECUADOR",OROMAR
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/195.ts
+#EXTINF:-1 tvg-id="" tvg-name="TC" tvg-logo="http://p3iptv.peruapps.online/images/1482_Tclogo.png" group-title="ECUADOR",TC
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/196.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS" tvg-logo="http://p3iptv.peruapps.online/images/22529_teleamazonas.png" group-title="ECUADOR",TELEAMAZONAS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/197.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/800px-Telecaribe2017.png" group-title="COLOMBIA",TELECARIBE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/198.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="http://p3iptv.peruapps.online/images/46589_telemundo-internacional.png" group-title="ENTRETENIMIENTO",TELEMUNDO
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/199.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="http://p3iptv.peruapps.online/images/64585_univision.png" group-title="ENTRETENIMIENTO",UNIVISION
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/200.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="http://2.bp.blogspot.com/-QtZlKbuo2tc/VsBM6ydf3wI/AAAAAAAAz7A/t58_d__i4MU/s1600/discovery-home-and-health.png" group-title="ENTRETENIMIENTO",DISCOVERY H&H
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/201.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://p3iptv.peruapps.online/images/42891_tntseries.png" group-title="ENTRETENIMIENTO",TNT SERIES
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/202.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://p3iptv.peruapps.online/images/18564_foxsport2-logo.png" group-title="DEPORTES",FOX SPORTS 2
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/203.ts
+#EXTINF:-1 tvg-id="" tvg-name="VENUS TV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_Venus_logo.svg" group-title="ADULTOS",VENUS TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/204.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://p3iptv.peruapps.online/images/23091_discoverycivilization.png" group-title="CULTURAL",DISCOVERY CIVILIZATION
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/205.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC GOLF USA" tvg-logo="http://p3iptv.peruapps.online/images/39794_nbcgolf.png" group-title="DEPORTES",NBC GOLF USA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/206.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://p3iptv.peruapps.online/images/24368_tlc-logo.png" group-title="ENTRETENIMIENTO",TLC
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/207.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://p3iptv.peruapps.online/images/22603_discoverychannel-logo.png" group-title="CULTURAL",DISCOVERY CHANNEL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/208.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR TVE" tvg-logo="http://static.wikia.nocookie.net/tvfanon6528/images/7/7c/Star_TVE_%282016-.n.v.%29.png" group-title="ESPAÑA",STAR TVE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/209.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELETICA 7" tvg-logo="http://p3iptv.peruapps.online/images/7109_teletica-costarica.png" group-title="COSTA RICA",TELETICA 7
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/210.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2" tvg-logo="http://p3iptv.peruapps.online/images/77279_nickelodeon2-logo.png" group-title="INFANTILES",NICK 2
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/211.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATHER" tvg-logo="http://p3iptv.peruapps.online/images/34447_discoverytheater.png" group-title="CULTURAL",DISCOVERY THEATHER
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/212.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHE " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1280px-2020_Canal_DHE_logo.svg.png" group-title="ENTRETENIMIENTO",DHE 
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/213.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPAÑOL" tvg-logo="https://cherry-brightspot.s3.amazonaws.com/media/2010/10/06/cnn-espanol-nuevo-logo-imagen.jpg" group-title="NOTICIAS",CNN ESPAÑOL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/214.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCHILE" tvg-logo="http://p3iptv.peruapps.online/images/31841_tvchile.png" group-title="CHILE",TVCHILE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/215.ts
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="http://p3iptv.peruapps.online/images/80925_pasiones.png" group-title="TELENOVELAS",PASIONES
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/216.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="http://sky.shorthandstories.com/la-liga-story-so-far/assets/logo.png" group-title="DEPORTES",SKY SPORTS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/217.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="http://www.totalmedios.com/img/noticias/2011/05/Noticia11837__838x390.jpg" group-title="ADULTOS",SEXTREME
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/218.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO BRASIL" tvg-logo="http://p3iptv.peruapps.online/images/40856_hbo-logo.png" group-title="BRASIL",HBO BRASIL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/219.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 BRASIL" tvg-logo="http://p3iptv.peruapps.online/images/1077_hbo2-logo.png" group-title="BRASIL",HBO 2 BRASIL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/220.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO+ BRASIL" tvg-logo="http://p3iptv.peruapps.online/images/54720_hboplus-logo.png" group-title="BRASIL",HBO+ BRASIL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/221.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE BRASIL" tvg-logo="http://p3iptv.peruapps.online/images/65339_hbosignature-logo.png" group-title="BRASIL",HBO SIGNATURE BRASIL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/223.ts
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="http://p3iptv.peruapps.online/images/64618_winsports.png" group-title="COLOMBIA",WIN SPORTS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/224.ts
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+" tvg-logo="http://p3iptv.peruapps.online/images/852_winsports+.png" group-title="COLOMBIA",WIN SPORTS+
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/225.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES" tvg-logo="http://p3iptv.peruapps.online/images/13738_movistar-ligacampeones.png" group-title="DEPORTES",LIGA DE CAMPEONES
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/226.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTS" tvg-logo="http://p3iptv.peruapps.online/images/39012_rtsecuador.png" group-title="ECUADOR",RTS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/227.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL" tvg-logo="http://p3iptv.peruapps.online/images/55253_elcanaldelfutbol.png" group-title="ECUADOR",EL CANAL DEL FUTBOL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/228.ts
+#EXTINF:-1 tvg-id="" tvg-name="GAMAVISION" tvg-logo="http://p3iptv.peruapps.online/images/11923_gamavisionecuador.png" group-title="ECUADOR",GAMAVISION
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/229.ts
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://p3iptv.peruapps.online/images/67337_tycsports.png" group-title="DEPORTES",TYC SPORTS
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/230.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="http://www.televisiongratis.tv/components/com_televisiongratis/images/tvc-deportes-2116.png" group-title="DEPORTES",TVC DEPORTES
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/231.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV" tvg-logo="http://p3iptv.peruapps.online/images/69495_estrellatv-mexico.png" group-title="MÉXICO",ESTRELLA TV
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/232.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE" tvg-logo="http://p3iptv.peruapps.online/images/57253_canal9-argentina.png" group-title="ARGENTINA",EL NUEVE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/233.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT NORTE" tvg-logo="http://p3iptv.peruapps.online/images/16043_foxsport-logo.png" group-title="DEPORTES",FOX SPORT NORTE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/234.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://p3iptv.peruapps.online/images/72885_foxsportspremium.png" group-title="DEPORTES",FOX SPORTS PREMIUM
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/235.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 NORTE" tvg-logo="http://p3iptv.peruapps.online/images/18564_foxsport2-logo.png" group-title="DEPORTES",FOX SPORTS 2 NORTE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/236.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/10/El-Nueve-Mexico-en-vivo-Online-Teleame-Mexico.png" group-title="MÉXICO",CANAL 9
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/237.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 6 COSTA RICA" tvg-logo="http://p3iptv.peruapps.online/images/16654_canal6-costarica.png" group-title="COSTA RICA",CANAL 6 COSTA RICA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/238.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="http://w7.pngwing.com/pngs/724/805/png-transparent-canal-cinema-dynamite-cinematography-cinema-dinamita-dynamite-text-logo-brand-thumbnail.png" group-title="MÉXICO",CINEMA DINAMITA
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="https://p3iptv.peruapps.online/images/57621_espn-brasil.png" group-title="BRASIL",ESPN BRASIL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/241.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO BRASIL" tvg-logo="https://p3iptv.peruapps.online/images/46427_discoveryturbo-logo.png" group-title="BRASIL",DISCOVERY TURBO BRASIL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/242.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="https://p3iptv.peruapps.online/images/70934_combate-brasil.png" group-title="BRASIL",COMBATE
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/243.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY BRASIL" tvg-logo="http://p3iptv.peruapps.online/images/1047_history-logo.png" group-title="BRASIL",HISTORY BRASIL
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/244.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL BRASIL" tvg-logo="http://p3iptv.peruapps.online/images/20162_foxchannel.png" group-title="BRASIL",STAR CHANNEL BRASIL
