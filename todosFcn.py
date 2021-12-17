@@ -1,5 +1,5 @@
 import os
-baseDir='templates/listas/'
+baseDir='templates/listas/' 
 todos={}
 def getTodos():
 	for cat in os.listdir(baseDir):
