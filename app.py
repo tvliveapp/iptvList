@@ -89,7 +89,7 @@ def listaiptv():
 		pass
 	readList()
 	print('update',time.time()-lasUpdate)
-	if time.time()-lasUpdate>100:
+	if time.time()-lasUpdate>7200:
 		#nowLive.updateList()
 		lasUpdate=time.time()
 		iptvhdFcn.getChannels()
@@ -114,7 +114,7 @@ def listaiptvm3u():
 		print( ip_address = request.headers['X-Forwarded-For'])
 	except:
 		pass
-	if time.time()-lasUpdate>18000:
+	if time.time()-lasUpdate>7200:
 		lasUpdate=time.time()
 		#nowLive.updateList()
 		iptvhdFcn.getChannels()
