@@ -88,6 +88,7 @@ def listaiptv():
 	except:
 		pass
 	readList()
+	print('update',time.time()-lasUpdate)
 	if time.time()-lasUpdate>18000:
 		#nowLive.updateList()
 		lasUpdate=time.time()
