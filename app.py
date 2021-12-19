@@ -47,7 +47,7 @@ def readList():
 		data=open('templates/listas/'+lista,encoding="utf8",errors='ignore')
 		listadecanales=listadecanales+'\n'+data.read()
 		data.close()
-	#print (listadecanales)
+	#print (listadecanales) 
 	todosChn=todosFcn.getTodos()
 def Convert(string):
     list1=[]
