@@ -89,7 +89,7 @@ def listaiptv():
 		pass
 	readList()
 	print('update',time.time()-lasUpdate)
-	if time.time()-lasUpdate>18000:
+	if time.time()-lasUpdate>100:
 		#nowLive.updateList()
 		lasUpdate=time.time()
 		iptvhdFcn.getChannels()
