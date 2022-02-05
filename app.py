@@ -1,4 +1,4 @@
-
+from importlib import reload 
 from flask import Flask, render_template, request
 #import nowLive
 import futlibre
@@ -94,7 +94,7 @@ def listaiptv():
 		#nowLive.updateList()
 		lasUpdate=time.time()
 		iptvhdFcn.getChannels()
-		
+		reload(futlibre)
 		readList()
 	return listadecanales
 @app.route("/listaiptv.m3u")
@@ -120,6 +120,7 @@ def listaiptvm3u():
 		#nowLive.updateList()
 		iptvhdFcn.getChannels()
 		lasUpdate=time.time()
+		reload(futlibre)
 		readList()
 	if cate[0]=='all':
 		print('todas')
