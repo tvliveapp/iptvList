@@ -28,7 +28,7 @@ for l in li:
 		#print(ev[0].text)
 		urls=[]
 
-lista=open('/templates/listas/ftlb.m3u','w')
+lista=open('templates/listas/ftlb.m3u','w')
 
 def getUrl(url):
 	session = HTMLSession()
