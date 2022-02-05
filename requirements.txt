@@ -3,3 +3,4 @@ pyftpdlib
 beautifulsoup4
 requests
 pyGithub
+requests_html
