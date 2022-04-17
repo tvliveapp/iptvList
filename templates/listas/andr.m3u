@@ -1,125 +1,125 @@
-#EXTINF:-1,CNN Espanol
+#EXTINF:-1 group-title="andromeda",CNN Espanol
 
 http://45.71.185.142:8500/play/a00n
 
-#EXTINF:-1,Canal Estrellas
+#EXTINF:-1 group-title="andromeda",Canal Estrellas
 
 http://45.71.185.142:8500/play/a01m
 
-#EXTINF:-1,RCN Novelas
+#EXTINF:-1 group-title="andromeda",RCN Novelas
 
 http://45.71.185.142:8500/play/a03i
 
-#EXTINF:-1,Telemundo
+#EXTINF:-1 group-title="andromeda",Telemundo
 
 http://45.71.185.142:8500/play/a01p
 
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="andromeda",ESPN
 
 http://45.71.185.142:8500/play/a01e
 
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 group-title="andromeda",ESPN 2
 
 http://45.71.185.142:8500/play/a015
 
-#EXTINF:-1,Fox Sports 1
+#EXTINF:-1 group-title="andromeda",Fox Sports 1
 
 http://45.71.185.142:8500/play/a021
 
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 group-title="andromeda",Fox Sports 2
 
 http://45.71.185.142:8500/play/a01n
 
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1 group-title="andromeda",Fox Sports 3
 
 http://45.71.185.142:8500/play/a01o
 
-#EXTINF:-1,Gol TV
+#EXTINF:-1 group-title="andromeda",Gol TV
 
 http://45.71.185.142:8500/play/a03b
 
-#EXTINF:-1,AE Mundo
+#EXTINF:-1 group-title="andromeda",AE Mundo
 
 http://45.71.185.142:8500/play/a01i
 
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="andromeda",AXN
 
 http://45.71.185.142:8500/play/a02y
 
-#EXTINF:-1,Cinecanal
+#EXTINF:-1 group-title="andromeda",Cinecanal
 
 http://45.71.185.142:8500/play/a005
 
-#EXTINF:-1,Cinemax
+#EXTINF:-1 group-title="andromeda",Cinemax
 
 http://45.71.185.142:8500/play/a02w
 
-#EXTINF:-1,FX
+#EXTINF:-1 group-title="andromeda",FX
 
 http://45.71.185.142:8500/play/a030
 
-#EXTINF:-1,FXM
+#EXTINF:-1 group-title="andromeda",FXM
 
 http://45.71.185.142:8500/play/a00t
 
-#EXTINF:-1,HBO
+#EXTINF:-1 group-title="andromeda",HBO
 
 http://45.71.185.142:8500/play/a02v
 
-#EXTINF:-1,HBO 2
+#EXTINF:-1 group-title="andromeda",HBO 2
 
 http://45.71.185.142:8500/play/a00z
 
-#EXTINF:-1,HBO Family
+#EXTINF:-1 group-title="andromeda",HBO Family
 
 http://45.71.185.142:8500/play/a012
 
-#EXTINF:-1,HBO Plus
+#EXTINF:-1 group-title="andromeda",HBO Plus
 
 http://45.71.185.142:8500/play/a010
 
-#EXTINF:-1,HBO XTREME SD
+#EXTINF:-1 group-title="andromeda",HBO XTREME SD
 
 http://45.71.185.142:8500/play/a011
 
-#EXTINF:-1,STAR CHANNEL
+#EXTINF:-1 group-title="andromeda",STAR CHANNEL
 
 http://45.71.185.142:8500/play/a00c
 
-#EXTINF:-1,Space
+#EXTINF:-1 group-title="andromeda",Space
 
 http://45.71.185.142:8500/play/a02z
 
-#EXTINF:-1,TBS
+#EXTINF:-1 group-title="andromeda",TBS
 
 http://45.71.185.142:8500/play/a03k
 
-#EXTINF:-1,TNT
+#EXTINF:-1 group-title="andromeda",TNT
 
 http://45.71.185.142:8500/play/a00g
 
-#EXTINF:-1,Warner
+#EXTINF:-1 group-title="andromeda",Warner
 
 http://45.71.185.142:8500/play/a01a
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 group-title="andromeda",Cartoon Network
 
 http://45.71.185.142:8500/play/a00f
 
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 group-title="andromeda",Discovery Kids
 
 http://45.71.185.142:8500/play/a00m
 
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 group-title="andromeda",Disney Channel
 
 http://45.71.185.142:8500/play/a017
 
-#EXTINF:-1,Disney Jr
+#EXTINF:-1 group-title="andromeda",Disney Jr
 
 http://45.71.185.142:8500/play/a013
 
-#EXTINF:-1,Disney XD
+#EXTINF:-1 group-title="andromeda",Disney XD
 
 http://45.71.185.142:8500/play/a002
 
-#EXTINF:-1,NatGeo Kids
+#EXTINF:-1 group-title="andromeda",NatGeo Kids
