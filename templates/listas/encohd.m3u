@@ -1,9 +1,9 @@
 
 # EXTINF:0 group-title="encohd",Channel 1
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/1.m3u8
-#  EXTINF:0 group-title="encohd", group-title="encohd",Channel 2
+#  EXTINF:0 group-title="encohd",Channel 2
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/2.m3u8
-#  EXTINF:0 group-title="encohd", group-title="encohd",Channel 3
+#  EXTINF:0 group-title="encohd",Channel 3
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/3.m3u8
 # EXTINF:0 group-title="encohd",Channel 4
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/4.m3u8
