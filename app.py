@@ -66,7 +66,7 @@ def crear():
 	return render_template("crearlista.html")
 
 @app.route("/shakaplayer")
-def crear():
+def shakaplayer():
 	return render_template("shakaplayer.html")
 @app.route("/")
 def root():
