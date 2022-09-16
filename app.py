@@ -65,7 +65,9 @@ app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 def crear():
 	return render_template("crearlista.html")
 
-
+@app.route("/shakaplayer")
+def crear():
+	return render_template("shakaplayer.html")
 @app.route("/")
 def root():
 	return render_template("test.html")
